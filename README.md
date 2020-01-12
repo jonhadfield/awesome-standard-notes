@@ -1,10 +1,8 @@
 # Awesome Standard Notes
-
 A curated list of tools and information relating to [Standard Notes](https://standardnotes.org/).  
 For discussion, please join the official Slack channel [here](https://standardnotes.org/slack).
 
 ### Contents
-
 * [Guides](#guides)
 * [Extensions](#extensions)
   * [Themes](#themes)
@@ -28,9 +26,11 @@ For discussion, please join the official Slack channel [here](https://standardno
 * [Overcast](https://github.com/ceiphr/sn-overcast-theme)
 * [Pure Black Theme](https://github.com/christianhans/sn-pure-black-theme)
 * [Slate Theme](https://github.com/ntran/sn-theme-muteddark) - A Standard Notes theme with shady grey and mossy green highlights.
+
 ### Editors
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor)
 * [Standard Notes Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor)
+
 ## Tools
 ### Browser
 * [Standard Notes Clipper](https://github.com/johnjones4/Standard-Notes-Clipper) - 
