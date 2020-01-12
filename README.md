@@ -22,6 +22,8 @@ For discussion, please join the official Slack channel [here](https://standardno
 * [Gruvbox Dark Theme](https://github.com/christianhans/sn-gruvbox-dark-theme) - Based on colors from the gruvbox theme for Vim.
 * [Dracula theme](https://github.com/cameronldn/sn-theme-dracula)
 * [Mojave Dark Mode](https://github.com/matthew-cox/sn-theme-mojave-dark-mode)
+* [Evernote](https://github.com/ilindaniel/sn-theme-evernote) - Evernote inspired theme for Standard Notes (>> not finished <<)
+* [Standard Notes Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor)
 ### Editors
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor)
 
