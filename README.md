@@ -14,7 +14,7 @@ For discussion, please join the official Slack channel [here](https://standardno
   * [Command Line](#command-line)
 * [Libraries](#libraries)
 
-# Guides
+## Guides
 * [Standard Notes Documentation](https://docs.standardnotes.org/) - Official documentation
 
 ## Extensions
