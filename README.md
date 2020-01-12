@@ -13,6 +13,7 @@ For discussion, please join the official Slack channel [here](https://standardno
   * [Browser](#browser)
   * [Command Line](#command-line)
 * [Libraries](#libraries)
+* [Servers](#servers)
 
 ## Guides
 * [Standard Notes Documentation](https://docs.standardnotes.org/) - Official documentation
@@ -37,3 +38,6 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 
 ## Libraries
 * [gosn](https://github.com/jonhadfield/gosn) - A library written in Go
+
+## Servers
+* [Yet Another Standardfile](https://github.com/mdouchement/standardfile) - A Standard Notes Server implementation written in Go
