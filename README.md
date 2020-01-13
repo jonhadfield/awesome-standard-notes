@@ -26,6 +26,7 @@ For discussion, please join the official Slack channel [here](https://standardno
 * [Overcast](https://github.com/ceiphr/sn-overcast-theme)
 * [Pure Black Theme](https://github.com/christianhans/sn-pure-black-theme)
 * [Slate Theme](https://github.com/ntran/sn-theme-muteddark) - A Standard Notes theme with shady grey and mossy green highlights.
+* [sn-theme-vscode](https://github.com/hyphone/sn-theme-vscode) - A theme for Standard Notes inspired by the VS Code Dark theme.
 
 ### Editors
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor)
