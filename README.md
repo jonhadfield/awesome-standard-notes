@@ -7,9 +7,11 @@ For discussion, please join the official Slack channel [here](https://standardno
 * [Extensions](#extensions)
   * [Themes](#themes)
   * [Editors](#editors)
+  * [Fonts](#fonts)
 * [Tools](#tools)
   * [Browser](#browser)
   * [Command Line](#command-line)
+  * [Importers, Exporters, and Converters](#importers-exporters-and-converters)
 * [Libraries](#libraries)
 * [Servers](#servers)
 
@@ -27,10 +29,15 @@ For discussion, please join the official Slack channel [here](https://standardno
 * [Pure Black Theme](https://github.com/christianhans/sn-pure-black-theme)
 * [Slate Theme](https://github.com/ntran/sn-theme-muteddark) - A Standard Notes theme with shady grey and mossy green highlights.
 * [sn-theme-vscode](https://github.com/hyphone/sn-theme-vscode) - A theme for Standard Notes inspired by the VS Code Dark theme.
+* [sn-theme-minimal](https://github.com/ajh3/sn-theme-minimal) - A minimal theme
+* [sn-themes](https://github.com/orestarod/sn-themes) - Some community themes and detail of how to develop your own
 
 ### Editors
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor)
 * [Standard Notes Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor)
+
+### Fonts
+* [SF Pro Text](https://github.com/christianhans/sn-sf-pro-text-font)
 
 ## Tools
 ### Browser
@@ -40,9 +47,16 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 ### Command Line
 * [standardnotes-fs](https://github.com/tannercollin/standardnotes-fs) - Mount your Standard Notes account as a filesystem and edit your notes as plain text files.
 * [sn-cli](https://github.com/jonhadfield/sn-cli)
+* [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) - Sync and manage dotfiles using Standard Notes
+
+### Importers, Exporters, and Converters
+[Day One => Standard Notes Importer](https://github.com/ArneTR/standardnotes_day_one_importer) - Day One JSON Export Importer for Standard Notes  
+[Google Keep™ to StandardNotes Converter](https://github.com/vantezzen/Google-Keep-to-Standardnotes-Converter) - Convert Google Keep Takeout archive into Standardnotes archive  
+[simplenote2standardnote](https://github.com/edas/simplenote2standardnote) - Port a SimpleNote backup to a StandardNote one, keeping dates and tags 
 
 ## Libraries
 * [gosn](https://github.com/jonhadfield/gosn) - A library written in Go
 
 ## Servers
 * [Yet Another Standardfile](https://github.com/mdouchement/standardfile) - A Standard Notes Server implementation written in Go
+* [Standard Notes & Docker](https://github.com/oxhacks/onestandard) - Dockerization of Standard File server. Used for running your own Standard Notes server 
