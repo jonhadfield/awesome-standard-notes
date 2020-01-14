@@ -20,13 +20,13 @@ For discussion, please join the official Slack channel [here](https://standardno
 
 ## Extensions
 ### Themes
-* [Dracula theme](https://github.com/cameronldn/sn-theme-dracula)
+* [Dracula theme](https://github.com/cameronldn/sn-theme-dracula) - A Dracula inspired theme for Standard Notes.
 * [Evernote](https://github.com/ilindaniel/sn-theme-evernote) - Evernote inspired theme for Standard Notes (>> not finished <<)
 * [Gruvbox Dark Theme](https://github.com/christianhans/sn-gruvbox-dark-theme) - Based on colors from the gruvbox theme for Vim.
-* [Mojave Dark Mode](https://github.com/matthew-cox/sn-theme-mojave-dark-mode)
-* [Muted Dark Theme](https://github.com/ntran/sn-theme-muteddark)
-* [Overcast](https://github.com/ceiphr/sn-overcast-theme)
-* [Pure Black Theme](https://github.com/christianhans/sn-pure-black-theme)
+* [Mojave Dark Mode](https://github.com/matthew-cox/sn-theme-mojave-dark-mode) - Standard Notes color theme which roughly matches Mojave Dark Mode.
+* [Muted Dark Theme](https://github.com/ntran/sn-theme-muteddark) - Standard Notes dark theme with non-vivid, muted colors
+* [Overcast](https://github.com/ceiphr/sn-overcast-theme) - This theme is based off of Standard Notes' official Midnight Theme and the color scheme was inspired by the Monokai Pro Visual Studio Code theme
+* [Pure Black Theme](https://github.com/christianhans/sn-pure-black-theme) - Theme for Standard Notes. Optimized for OLED devices such as iPhone X.
 * [Slate Theme](https://github.com/ntran/sn-theme-muteddark) - A Standard Notes theme with shady grey and mossy green highlights.
 * [sn-theme-vscode](https://github.com/hyphone/sn-theme-vscode) - A theme for Standard Notes inspired by the VS Code Dark theme.
 * [sn-theme-minimal](https://github.com/ajh3/sn-theme-minimal) - A minimal theme
@@ -41,7 +41,7 @@ For discussion, please join the official Slack channel [here](https://standardno
 
 ## Tools
 ### Browser
-* [Standard Notes Clipper](https://github.com/johnjones4/Standard-Notes-Clipper) - 
+* [Standard Notes Clipper](https://github.com/johnjones4/Standard-Notes-Clipper) -
 A browser add-on (Firefox and Chrome) that allows you to clip web pages to your Standard Notes account.
 
 ### Command Line
@@ -50,13 +50,13 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 * [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) - Sync and manage dotfiles using Standard Notes
 
 ### Importers, Exporters, and Converters
-[Day One => Standard Notes Importer](https://github.com/ArneTR/standardnotes_day_one_importer) - Day One JSON Export Importer for Standard Notes  
-[Google Keep™ to StandardNotes Converter](https://github.com/vantezzen/Google-Keep-to-Standardnotes-Converter) - Convert Google Keep Takeout archive into Standardnotes archive  
-[simplenote2standardnote](https://github.com/edas/simplenote2standardnote) - Port a SimpleNote backup to a StandardNote one, keeping dates and tags 
+* [Day One => Standard Notes Importer](https://github.com/ArneTR/standardnotes_day_one_importer) - Day One JSON Export Importer for Standard Notes  
+* [Google Keep™ to StandardNotes Converter](https://github.com/vantezzen/Google-Keep-to-Standardnotes-Converter) - Convert Google Keep Takeout archive into Standardnotes archive  
+* [simplenote2standardnote](https://github.com/edas/simplenote2standardnote) - Port a SimpleNote backup to a StandardNote one, keeping dates and tags
 
 ## Libraries
 * [gosn](https://github.com/jonhadfield/gosn) - A library written in Go
 
 ## Servers
 * [Yet Another Standardfile](https://github.com/mdouchement/standardfile) - A Standard Notes Server implementation written in Go
-* [Standard Notes & Docker](https://github.com/oxhacks/onestandard) - Dockerization of Standard File server. Used for running your own Standard Notes server 
+* [Standard Notes & Docker](https://github.com/oxhacks/onestandard) - Dockerization of Standard File server. Used for running your own Standard Notes server
