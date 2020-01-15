@@ -16,7 +16,7 @@ For discussion, please join the official Slack channel [here](https://standardno
 * [Servers](#servers)
 
 ## Guides
-* [Standard Notes Documentation](https://docs.standardnotes.org/) - Official documentation
+* [Standard Notes Documentation](https://docs.standardnotes.org/)
 * [Self-Hosting Standard Notes](https://standardnotes.org/help/47/can-i-self-host-standard-notes)
 
 ## Extensions
