@@ -28,8 +28,8 @@ For discussion, please join the official Slack channel [here](https://standardno
 * [Muted Dark Theme](https://github.com/ntran/sn-theme-muteddark) - Standard Notes dark theme with non-vivid, muted colors
 * [Overcast](https://github.com/ceiphr/sn-overcast-theme) - This theme is based off of Standard Notes' official Midnight Theme and the color scheme was inspired by the Monokai Pro Visual Studio Code theme
 * [Pure Black Theme](https://github.com/christianhans/sn-pure-black-theme) - Theme for Standard Notes. Optimized for OLED devices such as iPhone X.
-* [Slate Theme (yithian)](https://github.com/yithian/slate-theme/) - A Standard Notes theme with shady grey and mossy green highlights.
-* [Slate Theme Muted Dark (ntran)](https://github.com/ntran/sn-theme-muteddark) - A Standard Notes theme with shady grey and mossy green highlights.
+* [Slate Theme](https://github.com/yithian/slate-theme/) - A Standard Notes theme with shady grey and mossy green highlights.
+* [Slate Theme Muted Dark](https://github.com/ntran/sn-theme-muteddark) - Standard Notes dark theme with non-vivid, muted colors
 * [sn-theme-vscode](https://github.com/hyphone/sn-theme-vscode) - A theme for Standard Notes inspired by the VS Code Dark theme.
 * [sn-theme-minimal](https://github.com/ajh3/sn-theme-minimal) - A minimal theme
 * [sn-themes](https://github.com/orestarod/sn-themes) - Some community themes and detail of how to develop your own
