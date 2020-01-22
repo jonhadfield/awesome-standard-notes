@@ -62,3 +62,4 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 ## Servers
 * [Yet Another Standardfile](https://github.com/mdouchement/standardfile) - A Standard Notes Server implementation written in Go
 * [Standard Notes & Docker](https://github.com/oxhacks/onestandard) - Dockerization of Standard File server. Used for running your own Standard Notes server
+* [Standard Notes Extensions - Self-Hosted Repository](https://github.com/iganeshk/standardnotes-extensions) - Host Standard Notes extensions on your own server.
