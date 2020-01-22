@@ -49,6 +49,7 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 * [standardnotes-fs](https://github.com/tannercollin/standardnotes-fs) - Mount your Standard Notes account as a filesystem and edit your notes as plain text files.
 * [sn-cli](https://github.com/jonhadfield/sn-cli) - Manage notes, tags, and other account operations
 * [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) - Sync and manage dotfiles using Standard Notes
+* [Extensions Repository Builder](https://github.com/iganeshk/standardnotes-extensions) - Host Standard Notes extensions on your own server.
 
 ### Importers, Exporters, and Converters
 * [Day One => Standard Notes Importer](https://github.com/ArneTR/standardnotes_day_one_importer) - Day One JSON Export Importer for Standard Notes  
@@ -62,4 +63,3 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 ## Servers
 * [Yet Another Standardfile](https://github.com/mdouchement/standardfile) - A Standard Notes Server implementation written in Go
 * [Standard Notes & Docker](https://github.com/oxhacks/onestandard) - Dockerization of Standard File server. Used for running your own Standard Notes server
-* [Standard Notes Extensions - Self-Hosted Repository](https://github.com/iganeshk/standardnotes-extensions) - Host Standard Notes extensions on your own server.
