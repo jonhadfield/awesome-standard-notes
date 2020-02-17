@@ -56,6 +56,7 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 * [Day One => Standard Notes Importer](https://github.com/ArneTR/standardnotes_day_one_importer) - Day One JSON Export Importer for Standard Notes  
 * [Google Keep™ to StandardNotes Converter](https://github.com/vantezzen/Google-Keep-to-Standardnotes-Converter) - Convert Google Keep Takeout archive into Standardnotes archive  
 * [simplenote2standardnote](https://github.com/edas/simplenote2standardnote) - Port a SimpleNote backup to a StandardNote one, keeping dates and tags
+* [onestandard](https://github.com/oxhacks/onestandard) - Convert notebooks from OneNote into Standard Notes format.
 
 ## Libraries
 * [gosn](https://github.com/jonhadfield/gosn) - A library written in Go
@@ -63,4 +64,4 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 
 ## Servers
 * [Yet Another Standardfile](https://github.com/mdouchement/standardfile) - A Standard Notes Server implementation written in Go
-* [Standard Notes & Docker](https://github.com/oxhacks/onestandard) - Dockerization of Standard File server. Used for running your own Standard Notes server
+* [Standard Notes & Docker](https://github.com/mdouchement/standardnotes) - Dockerization of Standard File server. Used for running your own Standard Notes server
