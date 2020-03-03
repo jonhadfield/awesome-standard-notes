@@ -21,6 +21,8 @@ For discussion, please join the official Slack channel [here](https://standardno
 
 ## Extensions
 ### Themes
+* [Dark Hybrid](https://github.com/jakecza/dark-hybrid-theme-sn) -
+Dark theme featuring soft pastel colors built to be imported as a Standard Notes Extension
 * [Dracula theme](https://github.com/cameronldn/sn-theme-dracula) - A Dracula inspired theme for Standard Notes.
 * [Evernote Dark Theme](https://github.com/ilindaniel/sn-theme-evernote-dark) - Evernote inspired theme for Standard Notes.
 * [Evernote Light Theme](https://github.com/ilindaniel/sn-theme-evernote) - Evernote inspired theme for Standard Notes (>> not finished <<).
