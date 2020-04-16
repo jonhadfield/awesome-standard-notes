@@ -25,7 +25,7 @@ For discussion, please join the official Slack channel [here](https://standardno
 Dark theme featuring soft pastel colors built to be imported as a Standard Notes Extension
 * [Dracula theme](https://github.com/cameronldn/sn-theme-dracula) - A Dracula inspired theme for Standard Notes.
 * [Evernote Dark Theme](https://github.com/ilindaniel/sn-theme-evernote-dark) - Evernote inspired theme for Standard Notes.
-* [Evernote Light Theme](https://github.com/ilindaniel/sn-theme-evernote) - Evernote inspired theme for Standard Notes (>> not finished <<).
+* [Evernote Light Theme](https://github.com/ilindaniel/sn-theme-evernote) - Evernote inspired theme for Standard Notes.
 * [Gruvbox Dark Theme](https://github.com/christianhans/sn-gruvbox-dark-theme) - Based on colors from the gruvbox theme for Vim.
 * [Mojave Dark Mode](https://github.com/matthew-cox/sn-theme-mojave-dark-mode) - Standard Notes color theme which roughly matches Mojave Dark Mode.
 * [Muted Dark Theme](https://github.com/ntran/sn-theme-muteddark) - Standard Notes dark theme with non-vivid, muted colors
