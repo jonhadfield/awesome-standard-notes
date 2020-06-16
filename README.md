@@ -39,6 +39,7 @@ Dark theme featuring soft pastel colors built to be imported as a Standard Notes
 ### Editors
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor)
 * [Standard Notes Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor)
+* [Standard Notes Nimble Editor](https://hub.darcs.net/jandrew/sn-nimble-editor)
 * [append-editor](https://github.com/theodorechu/append-editor) - Append to your notes 
 
 ### Fonts
