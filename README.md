@@ -62,6 +62,7 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 * [simplenote2standardnote](https://github.com/edas/simplenote2standardnote) - Port a SimpleNote backup to a StandardNote one, keeping dates and tags
 * [onestandard](https://github.com/oxhacks/onestandard) - Convert notebooks from OneNote into Standard Notes format.
 * [notexfr](https://github.com/rafaelespinoza/notexfr) - notexfr is a tool to convert and adapt data for transfer between note-taking services
+* [Google Keep to Standard Notes nodeJS converter](https://gist.github.com/lzambarda/5e6cebd8356d3a2b5a2de01068745f5b) - Simple NodeJS script to convert a Google Keep Takeout export into a descrypted Standard Notes backup.
 
 ## Libraries
 * [gosn](https://github.com/jonhadfield/gosn) - A library written in Go
