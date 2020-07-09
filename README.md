@@ -65,7 +65,7 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 * [Google Keep to Standard Notes nodeJS converter](https://gist.github.com/lzambarda/5e6cebd8356d3a2b5a2de01068745f5b) - Simple NodeJS script to convert a Google Keep Takeout export into a descrypted Standard Notes backup.
 
 ## Libraries
-* [gosn](https://github.com/jonhadfield/gosn) - A library written in Go
+* [gosn-v2](https://github.com/jonhadfield/gosn-v2) - A library written in Go
 * [Standard File Client Library](https://godoc.org/github.com/mdouchement/standardfile/pkg/libsf) - A library written in Go
 
 ## Servers
