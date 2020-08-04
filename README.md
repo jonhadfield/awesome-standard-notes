@@ -3,17 +3,21 @@ A curated list of tools and information relating to [Standard Notes](https://sta
 For discussion, please join the official Slack channel [here](https://standardnotes.org/slack).
 
 ### Contents
-* [Guides](#guides)
-* [Extensions](#extensions)
-  * [Themes](#themes)
-  * [Editors](#editors)
-  * [Fonts](#fonts)
-* [Tools](#tools)
-  * [Browser](#browser)
-  * [Command Line](#command-line)
-  * [Importers, Exporters, and Converters](#importers-exporters-and-converters)
-* [Libraries](#libraries)
-* [Servers](#servers)
+- [Awesome Standard Notes](#awesome-standard-notes)
+    - [Contents](#contents)
+  - [Guides](#guides)
+  - [Extensions](#extensions)
+    - [Themes](#themes)
+    - [Editors](#editors)
+    - [Fonts](#fonts)
+  - [Tools](#tools)
+    - [Browser](#browser)
+    - [Command Line](#command-line)
+    - [Importers, Exporters, and Converters](#importers-exporters-and-converters)
+  - [Libraries](#libraries)
+  - [Servers](#servers)
+  - [Listed](#listed)
+    - [Themes](#themes-1)
 
 ## Guides
 * [Standard Notes Documentation](https://docs.standardnotes.org/)
@@ -71,3 +75,7 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 ## Servers
 * [Yet Another Standardfile](https://github.com/mdouchement/standardfile) - A Standard Notes Server implementation written in Go
 * [Standard Notes & Docker](https://github.com/mdouchement/standardnotes) - Dockerization of Standard File server. Used for running your own Standard Notes server
+
+## Listed 
+### Themes
+* [Dracula Styled Theme](https://github.com/TheVetDev/listed_dracula_theme) - A Dracula Styled theme for your listed blog. 
