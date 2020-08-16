@@ -10,6 +10,7 @@ For discussion, please join the official Slack channel [here](https://standardno
     - [Themes](#themes)
     - [Editors](#editors)
     - [Fonts](#fonts)
+    - [Repositories](#repositories)
   - [Tools](#tools)
     - [Browser](#browser)
     - [Command Line](#command-line)
@@ -48,6 +49,9 @@ Dark theme featuring soft pastel colors built to be imported as a Standard Notes
 
 ### Fonts
 * [SF Pro Text](https://github.com/christianhans/sn-sf-pro-text-font)
+
+### Repositories
+* [Standard Notes Open Extended](https://github.com/kylejbrk/standard-notes-open-extended) - A Free Open Source Standard Notes Extensions Repository Hosted via Github Pages 
 
 ## Tools
 ### Browser
