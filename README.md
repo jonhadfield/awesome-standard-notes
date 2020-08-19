@@ -7,17 +7,21 @@ For discussion, please join the official Slack channel [here](https://standardno
 This list will only provide and promote **original creations** and **not** any material related to re-hosting creations of Standard Notes. 
 
 ### Contents
-* [Guides](#guides)
-* [Extensions](#extensions)
-  * [Themes](#themes)
-  * [Editors](#editors)
-  * [Fonts](#fonts)
-* [Tools](#tools)
-  * [Browser](#browser)
-  * [Command Line](#command-line)
-  * [Importers, Exporters, and Converters](#importers-exporters-and-converters)
-* [Libraries](#libraries)
-* [Servers](#servers)
+- [Awesome Standard Notes](#awesome-standard-notes)
+    - [Contents](#contents)
+  - [Guides](#guides)
+  - [Extensions](#extensions)
+    - [Themes](#themes)
+    - [Editors](#editors)
+    - [Fonts](#fonts)
+  - [Tools](#tools)
+    - [Browser](#browser)
+    - [Command Line](#command-line)
+    - [Importers, Exporters, and Converters](#importers-exporters-and-converters)
+  - [Libraries](#libraries)
+  - [Servers](#servers)
+  - [Listed](#listed)
+    - [Themes](#themes-1)
 
 ## Guides
 * [Standard Notes Documentation](https://docs.standardnotes.org/)
@@ -43,6 +47,7 @@ Dark theme featuring soft pastel colors built to be imported as a Standard Notes
 ### Editors
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor)
 * [Standard Notes Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor)
+* [Standard Notes Nimble Editor](https://hub.darcs.net/jandrew/sn-nimble-editor)
 * [append-editor](https://github.com/theodorechu/append-editor) - Append to your notes 
 
 ### Fonts
@@ -64,11 +69,17 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 * [Google Keep™ to StandardNotes Converter](https://github.com/vantezzen/Google-Keep-to-Standardnotes-Converter) - Convert Google Keep Takeout archive into Standardnotes archive  
 * [simplenote2standardnote](https://github.com/edas/simplenote2standardnote) - Port a SimpleNote backup to a StandardNote one, keeping dates and tags
 * [onestandard](https://github.com/oxhacks/onestandard) - Convert notebooks from OneNote into Standard Notes format.
+* [notexfr](https://github.com/rafaelespinoza/notexfr) - notexfr is a tool to convert and adapt data for transfer between note-taking services
+* [Google Keep to Standard Notes nodeJS converter](https://gist.github.com/lzambarda/5e6cebd8356d3a2b5a2de01068745f5b) - Simple NodeJS script to convert a Google Keep Takeout export into a descrypted Standard Notes backup.
 
 ## Libraries
-* [gosn](https://github.com/jonhadfield/gosn) - A library written in Go
+* [gosn-v2](https://github.com/jonhadfield/gosn-v2) - A library written in Go
 * [Standard File Client Library](https://godoc.org/github.com/mdouchement/standardfile/pkg/libsf) - A library written in Go
 
 ## Servers
 * [Yet Another Standardfile](https://github.com/mdouchement/standardfile) - A Standard Notes Server implementation written in Go
 * [Standard Notes & Docker](https://github.com/mdouchement/standardnotes) - Dockerization of Standard File server. Used for running your own Standard Notes server
+
+## Listed 
+### Themes
+* [Dracula Styled Theme](https://github.com/TheVetDev/listed_dracula_theme) - A Dracula Styled theme for your listed blog. 
