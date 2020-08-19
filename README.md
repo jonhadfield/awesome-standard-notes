@@ -2,6 +2,10 @@
 A curated list of tools and information relating to [Standard Notes](https://standardnotes.org/).  
 For discussion, please join the official Slack channel [here](https://standardnotes.org/slack).
 
+### Policy
+
+This list will only provide and promote **original creations** and **not** any material related to re-hosting creations of Standard Notes. 
+
 ### Contents
 * [Guides](#guides)
 * [Extensions](#extensions)
