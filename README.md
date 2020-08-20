@@ -43,12 +43,13 @@ Dark theme featuring soft pastel colors built to be imported as a Standard Notes
 * [sn-theme-vscode](https://github.com/bscott/sn-theme-vscode) - A theme for Standard Notes inspired by the VS Code Dark theme.
 * [sn-theme-minimal](https://github.com/ajh3/sn-theme-minimal) - A minimal theme
 * [sn-themes](https://github.com/orestarod/sn-themes) - Some community themes and detail of how to develop your own
+* [Uniform Dark+ Theme](https://gitlab.com/dark-themes/uniform-dark-theme-sn) - Theme inspired by Visual Studio Code's default dark theme, designed for Standard Notes.
 
 ### Editors
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor)
 * [Standard Notes Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor)
 * [Standard Notes Nimble Editor](https://hub.darcs.net/jandrew/sn-nimble-editor)
-* [append-editor](https://github.com/theodorechu/append-editor) - Append to your notes 
+* [append-editor](https://github.com/theodorechu/append-editor) - Append to your notes.
 * [Flashcard Editor](https://github.com/TheodoreChu/flashcard-editor)
 
 ### Fonts
