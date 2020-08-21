@@ -51,6 +51,7 @@ Dark theme featuring soft pastel colors built to be imported as a Standard Notes
 * [Standard Notes Nimble Editor](https://hub.darcs.net/jandrew/sn-nimble-editor)
 * [append-editor](https://github.com/theodorechu/append-editor) - Append to your notes.
 * [Flashcard Editor](https://github.com/TheodoreChu/flashcard-editor)
+* [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) - The awesome editor developed by [Outline](getoutline.com). Supports tables, youtube embeds and text highlights.
 
 ### Fonts
 * [SF Pro Text](https://github.com/christianhans/sn-sf-pro-text-font)
