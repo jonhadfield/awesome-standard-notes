@@ -88,3 +88,4 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 ## Listed 
 ### Themes
 * [Dracula Styled Theme](https://github.com/TheVetDev/listed_dracula_theme) - A Dracula Styled theme for your listed blog. 
+* [Marcokai Theme](https://github.com/marcoceppi/listed-marcokai) - A dark theme with modified monokai syntax highlighting
