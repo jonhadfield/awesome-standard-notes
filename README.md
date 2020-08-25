@@ -26,6 +26,7 @@ This list will only provide and promote **original creations** and **not** any m
 ## Guides
 * [Standard Notes Documentation](https://docs.standardnotes.org/)
 * [Self-Hosting Standard Notes](https://standardnotes.org/help/47/can-i-self-host-standard-notes)
+* [Self-Hosting Standard Notes on your own server with extensions](https://bowlerdesign.tech/posts/how-to-completely-self-host-standard-notes/)
 
 ## Extensions
 ### Themes
