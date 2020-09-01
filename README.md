@@ -56,6 +56,7 @@ Dark theme featuring soft pastel colors built to be imported as a Standard Notes
 * [Flashcard Editor](https://github.com/TheodoreChu/flashcard-editor)
 * [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) - The awesome editor developed by [Outline](https://www.getoutline.com/). Supports tables, youtube embeds and text highlights.
 * [Standard Notes Writer](https://github.com/eenpadvinder/standardnotes-writer) - Distraction free writing with word count
+* [Scratch](https://dylanonelson.github.io/sn-scratch-editor/) - Scratch includes most of the text editing features you would expect for taking notes, like lists, checkboxes, basic text formatting, smart copy/paste, and hotkeys.
 
 ### Fonts
 * [SF Pro Text](https://github.com/christianhans/sn-sf-pro-text-font)
