@@ -27,6 +27,7 @@ This list will only provide and promote **original creations** and **not** any m
 * [Standard Notes Documentation](https://docs.standardnotes.org/)
 * [Self-Hosting Standard Notes](https://standardnotes.org/help/47/can-i-self-host-standard-notes)
 * [Self-Hosting Standard Notes on your own server with extensions](https://bowlerdesign.tech/posts/how-to-completely-self-host-standard-notes/)
+* [Install Standard Notes (AppImage) on Linux](https://tekbyte.net/2020/integrating-standard-notes-into-linux/)
 
 ## Extensions
 ### Themes
