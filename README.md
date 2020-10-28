@@ -34,6 +34,7 @@ This list will only provide and promote **original creations** and **not** any m
 * [Dark Hybrid](https://github.com/jakecza/dark-hybrid-theme-sn) -
 Dark theme featuring soft pastel colors built to be imported as a Standard Notes Extension
 * [Dracula theme](https://github.com/cameronldn/sn-theme-dracula) - A Dracula inspired theme for Standard Notes.
+* [Dracula theme](https://github.com/dracula/sn-theme-dracula) - A dark theme for Standard Notes.
 * [Evernote Dark Theme](https://github.com/ilindaniel/sn-theme-evernote-dark) - Evernote inspired theme for Standard Notes.
 * [Evernote Light Theme](https://github.com/ilindaniel/sn-theme-evernote) - Evernote inspired theme for Standard Notes.
 * [Gruvbox Dark Theme](https://github.com/christianhans/sn-gruvbox-dark-theme) - Based on colors from the gruvbox theme for Vim.
