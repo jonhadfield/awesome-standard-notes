@@ -91,6 +91,9 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 * [Yet Another Standardfile](https://github.com/mdouchement/standardfile) - A Standard Notes Server implementation written in Go
 * [Standard Notes & Docker](https://github.com/mdouchement/standardnotes) - Dockerization of Standard File server. Used for running your own Standard Notes server
 
+## Clients
+* [Iridium](https://github.com/standardnotes/forum/issues/1135) - A local-first client written in Rust and GTK, with support for any server and offline editing.
+
 ## Listed 
 ### Themes
 * [Dracula Styled Theme](https://github.com/TheVetDev/listed_dracula_theme) - A Dracula Styled theme for your listed blog. 
