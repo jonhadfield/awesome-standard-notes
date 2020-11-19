@@ -70,9 +70,9 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 * [Page Link & Title → Note](https://github.com/mllocs/standard-notes-chrome-extension) - Takes the title and link of a web page and creates a note using the same title and inserts the link into the body.
 
 ### Command Line
-* [standardnotes-fs](https://github.com/tannercollin/standardnotes-fs) - Mount your Standard Notes account as a filesystem and edit your notes as plain text files <sub><sup>([SN version 003 only](https://github.com/jonhadfield/awesome-standard-notes "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
-* [sn-cli](https://github.com/jonhadfield/sn-cli) - Manage notes, tags, and other account operations <sub><sup>([SN version 003 only](https://github.com/jonhadfield/awesome-standard-notes "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
-* [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) - Sync and manage dotfiles using Standard Notes <sub><sup>([SN version 003 only](https://github.com/jonhadfield/awesome-standard-notes "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
+* [standardnotes-fs](https://github.com/tannercollin/standardnotes-fs) - Mount your Standard Notes account as a filesystem and edit your notes as plain text files <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
+* [sn-cli](https://github.com/jonhadfield/sn-cli) - Manage notes, tags, and other account operations <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
+* [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) - Sync and manage dotfiles using Standard Notes <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
 * [Extensions Repository Builder](https://github.com/iganeshk/standardnotes-extensions) - Host Standard Notes extensions on your own server.
 
 ### Importers, Exporters, and Converters
@@ -84,7 +84,7 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 * [Google Keep to Standard Notes nodeJS converter](https://gist.github.com/lzambarda/5e6cebd8356d3a2b5a2de01068745f5b) - Simple NodeJS script to convert a Google Keep Takeout export into a descrypted Standard Notes backup.
 
 ## Libraries
-* [gosn-v2](https://github.com/jonhadfield/gosn-v2) - A library written in Go <sub><sup>([SN version 003 only](https://github.com/jonhadfield/awesome-standard-notes "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
+* [gosn-v2](https://github.com/jonhadfield/gosn-v2) - A library written in Go <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
 * [Standard File Client Library](https://godoc.org/github.com/mdouchement/standardfile/pkg/libsf) - A library written in Go
 
 ## Servers
@@ -92,7 +92,7 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 * [Standard Notes & Docker](https://github.com/mdouchement/standardnotes) - Dockerization of Standard File server. Used for running your own Standard Notes server
 
 ## Clients
-* [Iridium](https://github.com/standardnotes/forum/issues/1135) - A local-first client written in Rust and GTK, with support for any server and offline editing <sub><sup>([SN version 003 only](https://github.com/jonhadfield/awesome-standard-notes "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
+* [Iridium](https://github.com/standardnotes/forum/issues/1135) - A local-first client written in Rust and GTK, with support for any server and offline editing <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
 
 ## Listed 
 ### Themes
