@@ -1,10 +1,8 @@
 # Awesome Standard Notes
 A curated list of tools and information relating to [Standard Notes](https://standardnotes.org/).  
-For discussion, please join the official Slack channel [here](https://standardnotes.org/slack).
 
-### Policy
+Please take a look at the [contribution guidelines](CONTRIBUTING.md) before suggesting any changes.
 
-This list will only provide and promote **original creations** and **not** any material related to re-hosting creations of Standard Notes. 
 
 ### Contents
 - [Awesome Standard Notes](#awesome-standard-notes)
