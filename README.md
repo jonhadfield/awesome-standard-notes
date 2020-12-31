@@ -50,6 +50,7 @@ Dark theme featuring soft pastel colors built to be imported as a Standard Notes
 * [Nord Theme](https://github.com/lzambarda/sn-nord-theme) - Nord Theme for Standard Notes, inspired by the beautiful Nord palette.
 * [sn-theme-papercolor](https://github.com/trystanmortimer/sn-theme-papercolor) - A Papercolor inspired theme for Standard Notes.
 * [sn-less-distraction](https://github.com/alecstein/sn-less-distraction) - A reduced version of the [No Distraction](https://standardnotes.org/extensions/no-distraction) theme which layers with other themes. The font is also little larger.
+* [One Light Lighter](https://github.com/arturolinares/standardnotes-theme-one-lighter) - Based on One Dark Darker (listed above), but with a light background.
 
 ### Editors
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor)
