@@ -34,6 +34,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 Dark theme featuring soft pastel colors built to be imported as a Standard Notes Extension
 * [Dracula theme](https://github.com/cameronldn/sn-theme-dracula) - A Dracula inspired theme for Standard Notes.
 * [Dracula theme](https://github.com/dracula/sn-theme-dracula) - A dark theme for Standard Notes.
+* [Callisto Theme](https://github.com/Lissy93/callisto-theme-standard-notes) - A dark theme with a teal green accent
 * [Evernote Dark Theme](https://github.com/ilindaniel/sn-theme-evernote-dark) - Evernote inspired theme for Standard Notes.
 * [Evernote Light Theme](https://github.com/ilindaniel/sn-theme-evernote) - Evernote inspired theme for Standard Notes.
 * [Gruvbox Dark Theme](https://github.com/christianhans/sn-gruvbox-dark-theme) - Based on colors from the gruvbox theme for Vim.
