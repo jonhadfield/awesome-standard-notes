@@ -93,7 +93,7 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 * [evernote2md](https://github.com/wormi4ok/evernote2md) - Evernote2md is a CLI tool to convert Evernote notes exported in *.enex format to a directory with markdown files.
 
 ## Libraries
-* [gosn-v2](https://github.com/jonhadfield/gosn-v2) - A library written in Go <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
+* [gosn-v2](https://github.com/jonhadfield/gosn-v2) - A library written in Go
 * [Standard File Client Library](https://godoc.org/github.com/mdouchement/standardfile/pkg/libsf) - A library written in Go
 
 ## Servers
