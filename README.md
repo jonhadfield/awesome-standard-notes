@@ -80,8 +80,8 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 
 ### Command Line
 * [standardnotes-fs](https://github.com/tannercollin/standardnotes-fs) - Mount your Standard Notes account as a filesystem and edit your notes as plain text files <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
-* [sn-cli](https://github.com/jonhadfield/sn-cli) - Manage notes, tags, and other account operations <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
-* [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) - Sync and manage dotfiles using Standard Notes <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
+* [sn-cli](https://github.com/jonhadfield/sn-cli) - Manage notes, tags, and other account operations
+* [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) - Sync and manage dotfiles using Standard Notes
 * [Extensions Repository Builder](https://github.com/iganeshk/standardnotes-extensions) - Host Standard Notes extensions on your own server.
 
 ### Importers, Exporters, and Converters
