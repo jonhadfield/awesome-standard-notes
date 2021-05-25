@@ -75,7 +75,7 @@ Dark theme featuring soft pastel colors built to be imported as a Standard Notes
 ## Tools
 ### Browser
 * [Standard Notes Clipper](https://github.com/johnjones4/Standard-Notes-Clipper) -
-A browser add-on (Firefox and Chrome) that allows you to clip web pages to your Standard Notes account.
+A browser add-on (Firefox and Chrome) that allows you to clip web pages to your Standard Notes account. 🔻Please note this reported [issue](https://github.com/johnjones4/Standard-Notes-Clipper/issues/34)
 * [Page Link & Title → Note](https://github.com/mllocs/standard-notes-chrome-extension) - Takes the title and link of a web page and creates a note using the same title and inserts the link into the body.
 
 ### Command Line
