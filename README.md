@@ -38,6 +38,7 @@ Dark theme featuring soft pastel colors built to be imported as a Standard Notes
 * [Evernote Dark Theme](https://github.com/ilindaniel/sn-theme-evernote-dark) - Evernote inspired theme for Standard Notes.
 * [Evernote Light Theme](https://github.com/ilindaniel/sn-theme-evernote) - Evernote inspired theme for Standard Notes.
 * [Horizon Dark Theme](https://github.com/shouhu21/sn-theme-horizon-dark) - Based on colors from the Horizon theme for VSCode.
+* [Horizon Light Theme](https://github.com/shouhu21/sn-theme-horizon-light) - Based on colors from the Horizon Theme for VSCode.
 * [Gruvbox Dark Theme](https://github.com/christianhans/sn-gruvbox-dark-theme) - Based on colors from the gruvbox theme for Vim.
 * [Mojave Dark Mode](https://github.com/matthew-cox/sn-theme-mojave-dark-mode) - Standard Notes color theme which roughly matches Mojave Dark Mode.
 * [Muted Dark Theme](https://github.com/ntran/sn-theme-muteddark) - Standard Notes dark theme with non-vivid, muted colors
