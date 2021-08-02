@@ -1,5 +1,5 @@
 # Awesome Standard Notes
-A curated list of tools and information relating to [Standard Notes](https://standardnotes.org/).  
+A curated list of tools and information relating to [Standard Notes](https://standardnotes.com/).  
 
 Please take a look at the [contribution guidelines](CONTRIBUTING.md) before suggesting any changes.
 
@@ -23,7 +23,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 
 ## Guides
 * [Standard Notes Documentation](https://docs.standardnotes.org/)
-* [Self-Hosting Standard Notes](https://standardnotes.org/help/47/can-i-self-host-standard-notes)
+* [Self-Hosting Standard Notes](https://standardnotes.com/help/47/can-i-self-host-standard-notes)
 * [Self-Hosting Standard Notes on your own Server with Extensions](https://theselfhostingblog.com/posts/how-to-completely-self-host-standard-notes/)
 * [Self-Hosting Standard Notes Extensions with Docker-Compose](https://return2.net/dockerize-standard-notes-extensions/)
 * [Install Standard Notes (AppImage) on Linux](https://tekbyte.net/2020/integrating-standard-notes-into-linux/)
