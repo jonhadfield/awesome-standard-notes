@@ -105,7 +105,7 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 
 ## Clients
 * [Iridium](https://github.com/standardnotes/forum/issues/1135) - A local-first client written in Rust and GTK, with support for any server and offline editing <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
-
+* [Flatpak](https://flathub.org/apps/details/org.standardnotes.standardnotes) - An unofficial Flatpak build.
 ## Listed 
 ### Themes
 * [Dracula Styled Theme](https://github.com/TheVetDev/listed_dracula_theme) - A Dracula Styled theme for your listed blog. 
