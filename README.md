@@ -1,5 +1,5 @@
 # Awesome Standard Notes
-A curated list of tools and information relating to [Standard Notes](https://standardnotes.org/).  
+A curated list of tools and information relating to [Standard Notes](https://standardnotes.com/).  
 
 Please take a look at the [contribution guidelines](CONTRIBUTING.md) before suggesting any changes.
 
@@ -23,7 +23,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 
 ## Guides
 * [Standard Notes Documentation](https://docs.standardnotes.org/)
-* [Self-Hosting Standard Notes](https://standardnotes.org/help/47/can-i-self-host-standard-notes)
+* [Self-Hosting Standard Notes](https://standardnotes.com/help/47/can-i-self-host-standard-notes)
 * [Self-Hosting Standard Notes on your own Server with Extensions](https://theselfhostingblog.com/posts/how-to-completely-self-host-standard-notes/)
 * [Self-Hosting Standard Notes Extensions with Docker-Compose](https://return2.net/dockerize-standard-notes-extensions/)
 * [Install Standard Notes (AppImage) on Linux](https://tekbyte.net/2020/integrating-standard-notes-into-linux/)
@@ -37,7 +37,10 @@ Dark theme featuring soft pastel colors built to be imported as a Standard Notes
 * [Callisto Theme](https://github.com/Lissy93/callisto-theme-standard-notes) - A dark theme with a teal green accent
 * [Evernote Dark Theme](https://github.com/ilindaniel/sn-theme-evernote-dark) - Evernote inspired theme for Standard Notes.
 * [Evernote Light Theme](https://github.com/ilindaniel/sn-theme-evernote) - Evernote inspired theme for Standard Notes.
+* [Horizon Dark Theme](https://github.com/shouhu21/sn-theme-horizon-dark) - Based on colors from the Horizon theme for VSCode.
+* [Horizon Light Theme](https://github.com/shouhu21/sn-theme-horizon-light) - Based on colors from the Horizon Theme for VSCode.
 * [Gruvbox Dark Theme](https://github.com/christianhans/sn-gruvbox-dark-theme) - Based on colors from the gruvbox theme for Vim.
+* [Gruvbox Muted Themes](https://github.com/bithooks/sn-gruvbox-muted-theme) - Based on Gruvbox Dark Theme; comes in purple, blue, and green variants.
 * [Mojave Dark Mode](https://github.com/matthew-cox/sn-theme-mojave-dark-mode) - Standard Notes color theme which roughly matches Mojave Dark Mode.
 * [Muted Dark Theme](https://github.com/ntran/sn-theme-muteddark) - Standard Notes dark theme with non-vivid, muted colors
 * [Overcast](https://github.com/ceiphr/sn-overcast-theme) - This theme is based off of Standard Notes' official Midnight Theme and the color scheme was inspired by the Monokai Pro Visual Studio Code theme
@@ -68,6 +71,11 @@ Dark theme featuring soft pastel colors built to be imported as a Standard Notes
 * [Standard Notes Writer](https://github.com/eenpadvinder/standardnotes-writer) - Distraction free writing with word count
 * [Scratch](https://dylanonelson.github.io/sn-scratch-editor/) - Scratch includes most of the text editing features you would expect for taking notes, like lists, checkboxes, basic text formatting, smart copy/paste, and hotkeys.
 * [Folding Code Editor](https://github.com/matta9001/code-editor-fold) - A code editor which includes header and code folding for Standard Notes built on top of the official Code Editor.
+* [Kanban Board](https://github.com/tryonlinux/kanban-board-sn) - A simple Kanban style board editor for Standard Notes.
+* [Home Inventory](https://github.com/tryonlinux/Home-Inventory-sn) - An extension editor for Standard Notes to catalog home inventory (great for insurance purposes) in a solid and secure way.
+* [Coin Inventory](https://github.com/tryonlinux/Coin-Inventory-sn) - An extension editor for Standard Notes to catalog coin inventory in a solid and secure way. Numismatists rejoice!
+* [Precious Metals](https://github.com/tryonlinux/Precious-Metals-Inventory-sn) - An extension editor for Standard Notes to keep track of what precious metals you have and their values.
+* [Savings Goal Tracker](https://github.com/tryonlinux/savings-goals-editor-sn) - This is an editor for Standard Notes that allows you to track your savings goals within the app. You can add your goals and prioritize them by dragging and dropping them in the order you wish.
 
 ### Fonts
 * [SF Pro Text](https://github.com/christianhans/sn-sf-pro-text-font)
@@ -75,13 +83,13 @@ Dark theme featuring soft pastel colors built to be imported as a Standard Notes
 ## Tools
 ### Browser
 * [Standard Notes Clipper](https://github.com/johnjones4/Standard-Notes-Clipper) -
-A browser add-on (Firefox and Chrome) that allows you to clip web pages to your Standard Notes account.
+A browser add-on (Firefox and Chrome) that allows you to clip web pages to your Standard Notes account. 🔻Please note this reported [issue](https://github.com/johnjones4/Standard-Notes-Clipper/issues/34)
 * [Page Link & Title → Note](https://github.com/mllocs/standard-notes-chrome-extension) - Takes the title and link of a web page and creates a note using the same title and inserts the link into the body.
 
 ### Command Line
 * [standardnotes-fs](https://github.com/tannercollin/standardnotes-fs) - Mount your Standard Notes account as a filesystem and edit your notes as plain text files <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
-* [sn-cli](https://github.com/jonhadfield/sn-cli) - Manage notes, tags, and other account operations <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
-* [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) - Sync and manage dotfiles using Standard Notes <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
+* [sn-cli](https://github.com/jonhadfield/sn-cli) - Manage notes, tags, and other account operations
+* [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) - Sync and manage dotfiles using Standard Notes
 * [Extensions Repository Builder](https://github.com/iganeshk/standardnotes-extensions) - Host Standard Notes extensions on your own server.
 
 ### Importers, Exporters, and Converters
@@ -94,7 +102,7 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 * [evernote2md](https://github.com/wormi4ok/evernote2md) - Evernote2md is a CLI tool to convert Evernote notes exported in *.enex format to a directory with markdown files.
 
 ## Libraries
-* [gosn-v2](https://github.com/jonhadfield/gosn-v2) - A library written in Go <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
+* [gosn-v2](https://github.com/jonhadfield/gosn-v2) - A library written in Go
 * [Standard File Client Library](https://godoc.org/github.com/mdouchement/standardfile/pkg/libsf) - A library written in Go
 
 ## Servers
@@ -103,7 +111,7 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 
 ## Clients
 * [Iridium](https://github.com/standardnotes/forum/issues/1135) - A local-first client written in Rust and GTK, with support for any server and offline editing <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
-
+* [Flatpak](https://flathub.org/apps/details/org.standardnotes.standardnotes) - An unofficial Flatpak build.
 ## Listed 
 ### Themes
 * [Dracula Styled Theme](https://github.com/TheVetDev/listed_dracula_theme) - A Dracula Styled theme for your listed blog. 
