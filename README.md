@@ -70,6 +70,7 @@ Dark theme featuring soft pastel colors built to be imported as a Standard Notes
 * [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) - The awesome editor developed by [Outline](https://www.getoutline.com/). Supports tables, YouTube embeds and text highlights.
 * [Standard Notes Writer](https://github.com/eenpadvinder/standardnotes-writer) - Distraction free writing with word count
 * [Scratch](https://dylanonelson.github.io/sn-scratch-editor/) - Scratch includes most of the text editing features you would expect for taking notes, like lists, checkboxes, basic text formatting, smart copy/paste, and hotkeys.
+* [Folding Code Editor](https://github.com/matta9001/code-editor-fold) - A code editor which includes header and code folding for Standard Notes built on top of the official Code Editor.
 * [Kanban Board](https://github.com/tryonlinux/kanban-board-sn) - A simple Kanban style board editor for Standard Notes.
 * [Home Inventory](https://github.com/tryonlinux/Home-Inventory-sn) - An extension editor for Standard Notes to catalog home inventory (great for insurance purposes) in a solid and secure way.
 * [Coin Inventory](https://github.com/tryonlinux/Coin-Inventory-sn) - An extension editor for Standard Notes to catalog coin inventory in a solid and secure way. Numismatists rejoice!
