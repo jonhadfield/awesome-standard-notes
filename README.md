@@ -11,6 +11,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
   - [Extensions](#extensions)
     - [Themes](#themes)
     - [Editors](#editors)
+    - [Components](#components)
     - [Fonts](#fonts)
   - [Tools](#tools)
     - [Browser](#browser)
