@@ -47,7 +47,7 @@ Dark theme featuring soft pastel colors built to be imported as a Standard Notes
 * [Overcast](https://github.com/ceiphr/sn-overcast-theme) - This theme is based off of Standard Notes' official Midnight Theme and the color scheme was inspired by the Monokai Pro Visual Studio Code theme
 * [Pure Black Theme](https://github.com/christianhans/sn-pure-black-theme) - Theme for Standard Notes. Optimized for OLED devices such as iPhone X.
 * [Slate Theme](https://github.com/yithian/slate-theme/) - A Standard Notes theme with shady grey and mossy green highlights.
-* [sn-theme-vscode](https://github.com/bscott/sn-theme-vscode) - A theme for Standard Notes inspired by the VS Code Dark theme.
+* [vscode-theme](https://github.com/hyphone/sn-theme-vscode) - A theme for Standard Notes inspired by the VS Code Dark theme that is easy on the eyes.
 * [sn-theme-minimal](https://github.com/ajh3/sn-theme-minimal) - A minimal theme
 * [sn-themes](https://github.com/orestarod/sn-themes) - Some community themes and detail of how to develop your own
 * [Uniform Dark+ Theme](https://gitlab.com/dark-themes/uniform-dark-theme-sn) - Theme inspired by Visual Studio Code's default dark theme, designed for Standard Notes.
