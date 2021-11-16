@@ -4,7 +4,7 @@
 This project is maintained by [Jon](https://github.com/jonhadfield/) and [Johannes](https://github.com/jrabensc)
 
 If you have created or discovered something awesome that relates to Standard Notes then please submit a [Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).   
-Alternatively, let us know via the Standard Notes [slack channel](https://standardnotes.org/slack) and we'll add it for you.  
+Alternatively, let us know via the Standard Notes [slack channel](https://standardnotes.org/slack) or [Discord](https://discord.gg/9VNW3kK554) and we'll add it for you.  
 
 ---
 
