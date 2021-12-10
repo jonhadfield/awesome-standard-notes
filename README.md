@@ -28,6 +28,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Self-Hosting Standard Notes on your own Server with Extensions](https://theselfhostingblog.com/posts/how-to-completely-self-host-standard-notes/)
 * [Self-Hosting Standard Notes Extensions with Docker-Compose](https://return2.net/dockerize-standard-notes-extensions/)
 * [Install Standard Notes (AppImage) on Linux](https://tekbyte.net/2020/integrating-standard-notes-into-linux/)
+* [How to Host Standard Notes Themes](https://blog.gunderson.tech/29891/how-to-host-standard-notes-themes)
 
 ## Extensions
 ### Themes
@@ -42,6 +43,7 @@ Dark theme featuring soft pastel colors built to be imported as a Standard Notes
 * [Horizon Light Theme](https://github.com/shouhu21/sn-theme-horizon-light) - Based on colors from the Horizon Theme for VSCode.
 * [Gruvbox Dark Theme](https://github.com/christianhans/sn-gruvbox-dark-theme) - Based on colors from the gruvbox theme for Vim.
 * [Gruvbox Muted Themes](https://github.com/bithooks/sn-gruvbox-muted-theme) - Based on Gruvbox Dark Theme; comes in purple, blue, and green variants.
+* [Monochrome Dark Theme](https://listed.to/p/eY9kuTLQzB)
 * [Mojave Dark Mode](https://github.com/matthew-cox/sn-theme-mojave-dark-mode) - Standard Notes color theme which roughly matches Mojave Dark Mode.
 * [Muted Dark Theme](https://github.com/ntran/sn-theme-muteddark) - Standard Notes dark theme with non-vivid, muted colors
 * [Overcast](https://github.com/ceiphr/sn-overcast-theme) - This theme is based off of Standard Notes' official Midnight Theme and the color scheme was inspired by the Monokai Pro Visual Studio Code theme
@@ -50,6 +52,8 @@ Dark theme featuring soft pastel colors built to be imported as a Standard Notes
 * [vscode-theme](https://github.com/hyphone/sn-theme-vscode) - A theme for Standard Notes inspired by the VS Code Dark theme that is easy on the eyes.
 * [sn-theme-minimal](https://github.com/ajh3/sn-theme-minimal) - A minimal theme
 * [sn-themes](https://github.com/orestarod/sn-themes) - Some community themes and detail of how to develop your own
+* [Subtle Dark Theme](https://listed.to/p/bntrwCrfHs)
+* [Subtle Light Theme](https://listed.to/p/4mweyGrLjo)
 * [Uniform Dark+ Theme](https://gitlab.com/dark-themes/uniform-dark-theme-sn) - Theme inspired by Visual Studio Code's default dark theme, designed for Standard Notes.
 * [One Dark](https://github.com/matta9001/sn-onedark) - One Dark color scheme based on Atom.
 * [One Dark Darker](https://github.com/eenpadvinder/standardnotes-theme-one-darker) - Based on the One Dark Darker theme for VS Code, with colored headings and some UI tweaks.
