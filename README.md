@@ -19,6 +19,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
     - [Importers, Exporters, and Converters](#importers-exporters-and-converters)
   - [Libraries](#libraries)
   - [Servers](#servers)
+  - [Clients](#clients)
   - [Listed](#listed)
     - [Themes](#themes-1)
 
@@ -110,6 +111,7 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 * [Google Keep to Standard Notes nodeJS converter](https://gist.github.com/lzambarda/5e6cebd8356d3a2b5a2de01068745f5b) - Simple NodeJS script to convert a Google Keep Takeout export into a descrypted Standard Notes backup.
 * [evernote2md](https://github.com/wormi4ok/evernote2md) - Evernote2md is a CLI tool to convert Evernote notes exported in *.enex format to a directory with markdown files.
 * [Aegis to TokenVault](https://gist.github.com/kahnwong/e94933bb80888e4b7f75df4d90645cbe) - Export secret keys and account info from Aegis, then use this python script to format it into something the TokenVault Editor can use.
+* [Yarle - The ultimate converter of Evernote notes to Markdown](https://github.com/akosbalasko/yarle) - A fully configurable cross-platform desktop application to convert your Evernote notebooks (enex files) to Markdown format.
 
 ## Libraries
 * [gosn-v2](https://github.com/jonhadfield/gosn-v2) - A library written in Go
