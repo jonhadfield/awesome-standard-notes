@@ -58,7 +58,7 @@ Dark theme featuring soft pastel colors built to be imported as a Standard Notes
 * [Uniform Dark+ Theme](https://gitlab.com/dark-themes/uniform-dark-theme-sn) - Theme inspired by Visual Studio Code's default dark theme, designed for Standard Notes.
 * [One Dark](https://github.com/matta9001/sn-onedark) - One Dark color scheme based on Atom.
 * [One Dark Darker](https://github.com/eenpadvinder/standardnotes-theme-one-darker) - Based on the One Dark Darker theme for VS Code, with colored headings and some UI tweaks.
-* [Tangerine Theme](https://github.com/shompoe/sn-tangerine-theme) - I created this theme to tweak some of the colours from Gruvbox Dark Theme and to give note flags coloured backgrounds in desktop.
+* [Tangerine Theme](https://github.com/shompoe/sn-tangerine-theme) - Newly updated for SN 3.9.15 onward. New installation link. Please re-install
 * [Nord Theme](https://github.com/lzambarda/sn-nord-theme) - Nord Theme for Standard Notes, inspired by the beautiful Nord palette.
 * [sn-theme-papercolor](https://github.com/trystanmortimer/sn-theme-papercolor) - A Papercolor inspired theme for Standard Notes.
 * [sn-less-distraction](https://github.com/alecstein/sn-less-distraction) - A reduced version of the [No Distraction](https://standardnotes.org/extensions/no-distraction) theme which layers with other themes. The font is also little larger.
