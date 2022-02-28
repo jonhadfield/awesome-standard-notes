@@ -53,7 +53,6 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [sn-themes](https://github.com/orestarod/sn-themes) - Some community themes and detail of how to develop your own
 * [Subtle Dark Theme](https://listed.to/p/bntrwCrfHs)
 * [Subtle Light Theme](https://listed.to/p/4mweyGrLjo)
-* [Uniform Dark+ Theme](https://gitlab.com/dark-themes/uniform-dark-theme-sn) - Theme inspired by Visual Studio Code's default dark theme, designed for Standard Notes.
 * [One Dark](https://github.com/matta9001/sn-onedark) - One Dark color scheme based on Atom.
 * [One Dark Darker](https://github.com/eenpadvinder/standardnotes-theme-one-darker) - Based on the One Dark Darker theme for VS Code, with colored headings and some UI tweaks.
 * [Tangerine Theme](https://github.com/shompoe/sn-tangerine-theme) - Newly updated for SN 3.9.15 onward. New installation link. Please re-install
