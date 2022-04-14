@@ -85,6 +85,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 
 ### Fonts
 * [SF Pro Text](https://github.com/christianhans/sn-sf-pro-text-font)
+* [JetBrains Mono](https://github.com/aiFdn/SN-JetBrains-Mono)
 
 ## Tools
 ### Browser
