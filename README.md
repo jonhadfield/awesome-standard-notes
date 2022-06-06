@@ -109,6 +109,7 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 * [evernote2md](https://github.com/wormi4ok/evernote2md) - Evernote2md is a CLI tool to convert Evernote notes exported in *.enex format to a directory with markdown files.
 * [Aegis to TokenVault](https://gist.github.com/kahnwong/e94933bb80888e4b7f75df4d90645cbe) - Export secret keys and account info from Aegis, then use this python script to format it into something the TokenVault Editor can use.
 * [Yarle - The ultimate converter of Evernote notes to Markdown](https://github.com/akosbalasko/yarle) - A fully configurable cross-platform desktop application to convert your Evernote notebooks (enex files) to Markdown format.
+* [Standard Notes Folder Export CLI]([https://github.com/vantezzen/Google-Keep-to-Standardnotes-Converter](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno)) - Simple CLI script to convert a decrypted Standard Notes Backup/Export into a structure of `<tag>/<note-title>.<file-extension>`.  
 
 ## Libraries
 * [gosn-v2](https://github.com/jonhadfield/gosn-v2) - A library written in Go
