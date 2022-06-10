@@ -61,6 +61,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [One Light Lighter](https://github.com/arturolinares/standardnotes-theme-one-lighter) - Based on One Dark Darker (listed above), but with a light background.
 * [Yaru](https://github.com/ceiphr/sn-yaru-theme) - Based on Ubuntu's Yaru Theme, with a dark background. 
 * [Monospace for Markdown Editors](https://github.com/DanielNetoP/markdown-monospace) - Monospace font for Standard Notes markdown editors (Toggle on top of other themes)
+* [Standard Notes Writer](https://github.com/eenpadvinder/standardnotes-writer) - Distraction free writing with word count
 
 ### Editors
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor)
@@ -72,7 +73,6 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Marp Editor](https://github.com/TheodoreChu/marp-editor) - Create presentation slides with [Marp](https://marp.app) and [Marpit Markdown](https://marpit.marp.app/markdown).
 * [Music Editor](https://github.com/TheodoreChu/music-editor) - Write music with [VexTab](https://github.com/0xfe/vextab) and [VexFlow](https://github.com/0xfe/vexflow).
 * [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) - The awesome editor developed by [Outline](https://www.getoutline.com/). Supports tables, YouTube embeds and text highlights.
-* [Standard Notes Writer](https://github.com/eenpadvinder/standardnotes-writer) - Distraction free writing with word count
 * [Scratch](https://dylanonelson.github.io/sn-scratch-editor/) - Scratch includes most of the text editing features you would expect for taking notes, like lists, checkboxes, basic text formatting, smart copy/paste, and hotkeys.
 * [Folding Code Editor](https://github.com/matta9001/code-editor-fold) - A code editor which includes header and code folding for Standard Notes built on top of the official Code Editor.
 * [Kanban Board](https://github.com/tryonlinux/kanban-board-sn) - A simple Kanban style board editor for Standard Notes.
