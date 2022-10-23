@@ -1,8 +1,7 @@
 # Awesome Standard Notes
 A curated list of tools and information relating to [Standard Notes](https://standardnotes.com/).  
 
-Please take a look at the [contribution guidelines](CONTRIBUTING.md) before suggesting any changes.
-
+Please take a look at the [contribution guidelines](CONTRIBUTING.md) before suggesting any changes. You can also have your extension hosted by the [official plugins directory](https://github.com/standardnotes/plugins).
 
 ### Contents
 - [Awesome Standard Notes](#awesome-standard-notes)
@@ -24,6 +23,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
     - [Themes](#themes-1)
 
 ## Guides
+* [Submitting to the official community plugins directory](https://github.com/standardnotes/plugins#submitting-your-plugin-to-the-directory)
 * [Standard Notes Documentation](https://docs.standardnotes.org/)
 * [Self-Hosting Standard Notes](https://standardnotes.com/help/47/can-i-self-host-standard-notes)
 * [Self-Hosting Standard Notes on your own Server with Extensions](https://theselfhostingblog.com/posts/how-to-completely-self-host-standard-notes/)
