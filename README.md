@@ -27,6 +27,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Standard Notes Documentation](https://docs.standardnotes.org/)
 * [Self-Hosting Standard Notes](https://standardnotes.com/help/47/can-i-self-host-standard-notes)
 * [Self-Hosting Standard Notes on your own Server with Extensions](https://theselfhostingblog.com/posts/how-to-completely-self-host-standard-notes/)
+* [Self-Hosting Standard Notes on your own ARM Server like the Raspberry Pi](https://github.com/antonheitz/standard-notes-arm)
 * [Self-Hosting Standard Notes Extensions with Docker-Compose](https://return2.net/dockerize-standard-notes-extensions/)
 * [Install Standard Notes (AppImage) on Linux](https://tekbyte.net/2020/integrating-standard-notes-into-linux/)
 * [How to Host Standard Notes Themes](https://blog.gunderson.tech/29891/how-to-host-standard-notes-themes)
