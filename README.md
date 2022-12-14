@@ -82,7 +82,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Coin Inventory](https://github.com/tryonlinux/Coin-Inventory-sn) - An extension editor for Standard Notes to catalog coin inventory in a solid and secure way. Numismatists rejoice!
 * [Precious Metals](https://github.com/tryonlinux/Precious-Metals-Inventory-sn) - An extension editor for Standard Notes to keep track of what precious metals you have and their values.
 * [Savings Goal Tracker](https://github.com/tryonlinux/savings-goals-editor-sn) - This is an editor for Standard Notes that allows you to track your savings goals within the app. You can add your goals and prioritize them by dragging and dropping them in the order you wish.
-* [Free Draw Editor](https://github.com/antonheitz/sn-tldraw-editor) - This editor utilizes TLDraw to enable you to freely draw and write, add sticky notes and shapes. Works on Dektop and Mobile.
+* [Whiteboard](https://github.com/antonheitz/sn-whiteboard) - This editor utilizes TLDraw to enable you to freely draw and write, add sticky notes and shapes. Works on Dektop and Mobile.
 
 ### Components
 * [Pomodoro Timer](https://github.com/tryonlinux/pomodoro-sn/) - Pomodoro timer for Standard Notes in the Editor Bottom Bar
