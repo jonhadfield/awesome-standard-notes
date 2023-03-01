@@ -56,7 +56,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Subtle Light Theme](https://listed.to/p/4mweyGrLjo)
 * [One Dark](https://github.com/matta9001/sn-onedark) - One Dark color scheme based on Atom.
 * [One Dark Darker](https://github.com/eenpadvinder/standardnotes-theme-one-darker) - Based on the One Dark Darker theme for VS Code, with colored headings and some UI tweaks.
-* [Tangerine Theme](https://github.com/shompoe/sn-tangerine-theme) - Newly updated for SN 3.9.15 onward. New installation link. Please re-install
+* [Tangerine Theme](https://github.com/shompoe/sn-orange) - Newly updated for SN 3.9.15 onward. New installation link. Please re-install
 * [Nord Theme](https://github.com/lzambarda/sn-nord-theme) - Nord Theme for Standard Notes, inspired by the beautiful Nord palette.
 * [sn-less-distraction](https://github.com/alecstein/sn-less-distraction) - A reduced version of the [No Distraction](https://standardnotes.org/extensions/no-distraction) theme which layers with other themes. The font is also little larger.
 * [One Light Lighter](https://github.com/arturolinares/standardnotes-theme-one-lighter) - Based on One Dark Darker (listed above), but with a light background.
