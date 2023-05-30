@@ -31,6 +31,8 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Self-Hosting Standard Notes Extensions with Docker-Compose](https://return2.net/dockerize-standard-notes-extensions/)
 * [Install Standard Notes (AppImage) on Linux](https://tekbyte.net/2020/integrating-standard-notes-into-linux/)
 * [How to Host Standard Notes Themes](https://blog.gunderson.tech/29891/how-to-host-standard-notes-themes)
+* [Creating Editor Extensions](https://randombits.dev/standard-notes/creating-extensions)
+* [Installing Extensions](https://randombits.dev/standard-notes/installing-extensions)
 
 ## Extensions
 ### Themes
@@ -83,6 +85,9 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Precious Metals](https://github.com/tryonlinux/Precious-Metals-Inventory-sn) - An extension editor for Standard Notes to keep track of what precious metals you have and their values.
 * [Savings Goal Tracker](https://github.com/tryonlinux/savings-goals-editor-sn) - This is an editor for Standard Notes that allows you to track your savings goals within the app. You can add your goals and prioritize them by dragging and dropping them in the order you wish.
 * [Whiteboard](https://github.com/antonheitz/sn-whiteboard) - This editor utilizes TLDraw to enable you to freely draw and write, add sticky notes and shapes. Works on Dektop and Mobile.
+* [Excalidraw](https://github.com/nienow/sn-excalidraw) - A drawing/sketching editor that uses the Excalidraw library.
+* [Quill](https://github.com/nienow/sn-quill) - A rich text editor that uses the Quill library.
+* [Cosmos](https://github.com/nienow/cosmos) - Split a note into multiple areas. Each area can use a different editor. Install new editors more easily.
 
 ### Components
 * [Pomodoro Timer](https://github.com/tryonlinux/pomodoro-sn/) - Pomodoro timer for Standard Notes in the Editor Bottom Bar
