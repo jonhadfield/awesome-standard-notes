@@ -121,6 +121,7 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 * [Yarle - The ultimate converter of Evernote notes to Markdown](https://github.com/akosbalasko/yarle) - A fully configurable cross-platform desktop application to convert your Evernote notebooks (enex files) to Markdown format.
 * [Standard Notes Folder Export CLI](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno) - Simple CLI script to convert a decrypted Standard Notes Backup/Export into a structure of `<tag>/<note-title>.<file-extension>`.
 * [Standard Notes export to folder](https://github.com/danielnetop/sn-export-to-folder) - CLI tool to extract info from the Standard Notes decrypted export and transform it into folder based tags and notes. After the tool runs the tags will be folders and each note will be inside the respective folder.
+* [BB10 Remember -> Standard Notes plaintext(/super note) import format Converter](https://github.com/jayb-g/bbrem2sn) - A simple python program to convert BlackBerry10 Remember Notes backup(backed-up using Runisoft Ultimate Backup on BB10) to Standard Notes importable format with attachments support and preserved formatting.
 
 ## Libraries
 * [gosn-v2](https://github.com/jonhadfield/gosn-v2) - A library written in Go
