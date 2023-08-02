@@ -23,10 +23,8 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
     - [Themes](#themes-1)
 
 ## Guides
-* [Submitting to the official community plugins directory](https://github.com/standardnotes/plugins#submitting-your-plugin-to-the-directory)
-* [Standard Notes Documentation](https://docs.standardnotes.org/)
+* [Standard Notes Help](https://standardnotes.com/help)
 * [Self-Hosting Standard Notes](https://standardnotes.com/help/47/can-i-self-host-standard-notes)
-* [Self-Hosting Standard Notes on your own Server with Extensions](https://theselfhostingblog.com/posts/how-to-completely-self-host-standard-notes/)
 * [Self-Hosting Standard Notes on your own ARM Server like the Raspberry Pi](https://github.com/antonheitz/standard-notes-arm)
 * [Self-Hosting Standard Notes Extensions with Docker-Compose](https://return2.net/dockerize-standard-notes-extensions/)
 * [Install Standard Notes (AppImage) on Linux](https://tekbyte.net/2020/integrating-standard-notes-into-linux/)
@@ -67,6 +65,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Standard Notes Writer](https://github.com/eenpadvinder/standardnotes-writer) - Distraction free writing with word count
 
 ### Editors
+* [Official Extensions](https://github.com/standardnotes/plugins)
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor)
 * [Standard Notes Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor)
 * [Standard Notes Nimble Editor](https://hub.darcs.net/jandrew/sn-nimble-editor)
