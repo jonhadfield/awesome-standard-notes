@@ -3,8 +3,6 @@ A curated list of tools and information relating to [Standard Notes](https://sta
 
 Please take a look at the [contribution guidelines](CONTRIBUTING.md) before suggesting any changes. You can also have your extension hosted by the [official plugins directory](https://github.com/standardnotes/plugins).
 
-> Many of the themes and editors have outdated instructions in their README for where to install extensions. Go to Preferences -> General -> Advanced Options to install  extensions.
-
 ### Contents
 - [Awesome Standard Notes](#awesome-standard-notes)
     - [Contents](#contents)
@@ -35,6 +33,9 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Installing Extensions](https://randombits.dev/standard-notes/installing-extensions)
 
 ## Extensions
+
+> Many of the extensions have outdated instructions in their README for where to install extensions. Go to Preferences -> General -> Advanced Options to install  extensions.
+
 ### Themes
 * [Dracula theme](https://github.com/cameronldn/sn-theme-dracula) - A Dracula inspired theme for Standard Notes.
 * [Dracula theme](https://github.com/dracula/sn-theme-dracula) - A dark theme for Standard Notes.
