@@ -53,17 +53,6 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [One Light Lighter](https://github.com/arturolinares/standardnotes-theme-one-lighter) - Based on One Dark Darker (listed above), but with a light background.
 * [Standard Notes Writer](https://github.com/eenpadvinder/standardnotes-writer) - Distraction free writing with word count
 
-#### Themes that no longer work in web version
-
-The following themes no longer work on the web version of Standard Notes. The reason is that the css is being hosted from `raw.githubusercontent.com`, which doesn't have a `Content-Type` header, and therefore the browser doesn't render the CSS inside.
-
-* [Gruvbox Muted Themes](https://github.com/bithooks/sn-gruvbox-muted-theme) - Based on Gruvbox Dark Theme; comes in purple, blue, and green variants.
-* [Mojave Dark Mode](https://github.com/matthew-cox/sn-theme-mojave-dark-mode) - Standard Notes color theme which roughly matches Mojave Dark Mode.
-* [sn-theme-minimal](https://github.com/ajh3/sn-theme-minimal) - A minimal theme
-* [One Dark](https://github.com/matta9001/sn-onedark) - One Dark color scheme based on Atom.
-* [Nord Theme](https://github.com/lzambarda/sn-nord-theme) - Nord Theme for Standard Notes, inspired by the beautiful Nord palette.
-
-
 ### Editors
 * [Official Extensions](https://github.com/standardnotes/plugins)
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor)
