@@ -85,6 +85,8 @@ The following themes no longer work on the web version of Standard Notes. The re
 * [Excalidraw](https://github.com/nienow/sn-excalidraw) - A drawing/sketching editor that uses the Excalidraw library.
 * [Quill](https://github.com/nienow/sn-quill) - A rich text editor that uses the Quill library.
 * [Cosmos](https://github.com/nienow/cosmos) - Split a note into multiple areas. Each area can use a different editor. Install new editors more easily.
+* [Mermaid](https://github.com/nienow/sn-mermaid) - A diagram editor. Create Flow, Sequence, Class, State, Gantt, Pie, ER, User Journey, Git, Minmap, or Quadrant diagrams.
+* [Code Playground](https://github.com/nienow/sn-playground) - An HTML, JS, and CSS code playground editor.
 
 ### Components
 * [Pomodoro Timer](https://github.com/tryonlinux/pomodoro-sn/) - Pomodoro timer for Standard Notes in the Editor Bottom Bar
