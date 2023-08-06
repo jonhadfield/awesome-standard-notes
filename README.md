@@ -23,10 +23,8 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
     - [Themes](#themes-1)
 
 ## Guides
-* [Submitting to the official community plugins directory](https://github.com/standardnotes/plugins#submitting-your-plugin-to-the-directory)
-* [Standard Notes Documentation](https://docs.standardnotes.org/)
+* [Standard Notes Help](https://standardnotes.com/help)
 * [Self-Hosting Standard Notes](https://standardnotes.com/help/47/can-i-self-host-standard-notes)
-* [Self-Hosting Standard Notes on your own Server with Extensions](https://theselfhostingblog.com/posts/how-to-completely-self-host-standard-notes/)
 * [Self-Hosting Standard Notes on your own ARM Server like the Raspberry Pi](https://github.com/antonheitz/standard-notes-arm)
 * [Self-Hosting Standard Notes Extensions with Docker-Compose](https://return2.net/dockerize-standard-notes-extensions/)
 * [Install Standard Notes (AppImage) on Linux](https://tekbyte.net/2020/integrating-standard-notes-into-linux/)
@@ -35,49 +33,38 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Installing Extensions](https://randombits.dev/standard-notes/installing-extensions)
 
 ## Extensions
+
+> Many of the extensions have outdated instructions in their README for where to install extensions. Go to Preferences -> General -> Advanced Options to install  extensions.
+
 ### Themes
 * [Dracula theme](https://github.com/cameronldn/sn-theme-dracula) - A Dracula inspired theme for Standard Notes.
 * [Dracula theme](https://github.com/dracula/sn-theme-dracula) - A dark theme for Standard Notes.
-* [Callisto Theme](https://github.com/Lissy93/callisto-theme-standard-notes) - A dark theme with a teal green accent
-* [Evernote Dark Theme](https://github.com/ilindaniel/sn-theme-evernote-dark) - Evernote inspired theme for Standard Notes.
-* [Evernote Light Theme](https://github.com/ilindaniel/sn-theme-evernote) - Evernote inspired theme for Standard Notes.
 * [Horizon Dark Theme](https://github.com/shouhu21/sn-theme-horizon-dark) - Based on colors from the Horizon theme for VSCode.
 * [Horizon Light Theme](https://github.com/shouhu21/sn-theme-horizon-light) - Based on colors from the Horizon Theme for VSCode.
 * [Gruvbox Dark Theme](https://github.com/christianhans/sn-gruvbox-dark-theme) - Based on colors from the gruvbox theme for Vim.
-* [Gruvbox Muted Themes](https://github.com/bithooks/sn-gruvbox-muted-theme) - Based on Gruvbox Dark Theme; comes in purple, blue, and green variants.
 * [Monochrome Dark Theme](https://listed.to/p/eY9kuTLQzB)
-* [Mojave Dark Mode](https://github.com/matthew-cox/sn-theme-mojave-dark-mode) - Standard Notes color theme which roughly matches Mojave Dark Mode.
 * [Muted Dark Theme](https://github.com/ntran/sn-theme-muteddark) - Standard Notes dark theme with non-vivid, muted colors
-* [Overcast](https://github.com/ceiphr/sn-overcast-theme) - This theme is based off of Standard Notes' official Midnight Theme and the color scheme was inspired by the Monokai Pro Visual Studio Code theme
 * [Pure Black Theme](https://github.com/christianhans/sn-pure-black-theme) - Theme for Standard Notes. Optimized for OLED devices such as iPhone X.
 * [Slate Theme](https://github.com/yithian/slate-theme/) - A Standard Notes theme with shady grey and mossy green highlights.
 * [vscode-theme](https://github.com/hyphone/sn-theme-vscode) - A theme for Standard Notes inspired by the VS Code Dark theme that is easy on the eyes.
-* [sn-theme-minimal](https://github.com/ajh3/sn-theme-minimal) - A minimal theme
-* [sn-themes](https://github.com/orestarod/sn-themes) - Some community themes and detail of how to develop your own
 * [Subtle Dark Theme](https://listed.to/p/bntrwCrfHs)
 * [Subtle Light Theme](https://listed.to/p/4mweyGrLjo)
-* [One Dark](https://github.com/matta9001/sn-onedark) - One Dark color scheme based on Atom.
 * [One Dark Darker](https://github.com/eenpadvinder/standardnotes-theme-one-darker) - Based on the One Dark Darker theme for VS Code, with colored headings and some UI tweaks.
 * [Tangerine Theme](https://github.com/shompoe/sn-orange) - Newly updated for SN 3.9.15 onward. New installation link. Please re-install
-* [Nord Theme](https://github.com/lzambarda/sn-nord-theme) - Nord Theme for Standard Notes, inspired by the beautiful Nord palette.
-* [sn-less-distraction](https://github.com/alecstein/sn-less-distraction) - A reduced version of the [No Distraction](https://standardnotes.org/extensions/no-distraction) theme which layers with other themes. The font is also little larger.
 * [One Light Lighter](https://github.com/arturolinares/standardnotes-theme-one-lighter) - Based on One Dark Darker (listed above), but with a light background.
-* [Yaru](https://github.com/ceiphr/sn-yaru-theme) - Based on Ubuntu's Yaru Theme, with a dark background. 
-* [Monospace for Markdown Editors](https://github.com/DanielNetoP/markdown-monospace) - Monospace font for Standard Notes markdown editors (Toggle on top of other themes)
 * [Standard Notes Writer](https://github.com/eenpadvinder/standardnotes-writer) - Distraction free writing with word count
 
 ### Editors
+* [Official Extensions](https://github.com/standardnotes/plugins)
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor)
 * [Standard Notes Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor)
 * [Standard Notes Nimble Editor](https://hub.darcs.net/jandrew/sn-nimble-editor)
 * [Append Editor](https://github.com/theodorechu/append-editor) - Append to your notes. Write GitHub Flavored Markdown via four different editing modes: Plain Textarea with spell check, in-line formatting provided by [CodeMirror](https://github.com/codemirror/codemirror), what-you-see-is-what-you-get live formatting provided by the [Rich Markdown Editor](https://github.com/outline/rich-markdown-editor) developed by [Outline](https://www.getoutline.com/), and in-line syntax highlighting provided by the [Monaco Editor](https://github.com/microsoft/monaco-editor). In addition to GFM, the Plain Textarea, CodeMirror, and Monaco modes support KaTeX, table of contents, footnotes, in-line HTML, and emoji codes. The Monaco mode also supports autocompletion, search and replace, and syntax highlighting for over 60 programming languages. The Append Editor has built-in support for printing notes and per-note font sizes, font families, and custom CSS.
-* [Fast Editor](https://github.com/dec0dOS/standard-notes-fast-editor) - A markdown mobile-friendly and high-performance editor with clickable links on mobile and desktop.
 * [Flashcard Editor](https://github.com/TheodoreChu/flashcard-editor)
 * [Marp Editor](https://github.com/TheodoreChu/marp-editor) - Create presentation slides with [Marp](https://marp.app) and [Marpit Markdown](https://marpit.marp.app/markdown).
 * [Music Editor](https://github.com/TheodoreChu/music-editor) - Write music with [VexTab](https://github.com/0xfe/vextab) and [VexFlow](https://github.com/0xfe/vexflow).
 * [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) - The awesome editor developed by [Outline](https://www.getoutline.com/). Supports tables, YouTube embeds and text highlights.
 * [Scratch](https://dylanonelson.github.io/sn-scratch-editor/) - Scratch includes most of the text editing features you would expect for taking notes, like lists, checkboxes, basic text formatting, smart copy/paste, and hotkeys.
-* [Folding Code Editor](https://github.com/matta9001/code-editor-fold) - A code editor which includes header and code folding for Standard Notes built on top of the official Code Editor.
 * [Kanban Board](https://github.com/tryonlinux/kanban-board-sn) - A simple Kanban style board editor for Standard Notes.
 * [Kanban Editor](https://github.com/corvec/sn-kanban-editor) - Kanban Editor for Standard Notes. It integrates rcdexta/react-trello, a Kanban board editor, and saves your notes in Markdown so that you can easily read them, export them to Listed, etc.
 * [Home Inventory](https://github.com/tryonlinux/Home-Inventory-sn) - An extension editor for Standard Notes to catalog home inventory (great for insurance purposes) in a solid and secure way.
@@ -88,6 +75,8 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Excalidraw](https://github.com/nienow/sn-excalidraw) - A drawing/sketching editor that uses the Excalidraw library.
 * [Quill](https://github.com/nienow/sn-quill) - A rich text editor that uses the Quill library.
 * [Cosmos](https://github.com/nienow/cosmos) - Split a note into multiple areas. Each area can use a different editor. Install new editors more easily.
+* [Mermaid](https://github.com/nienow/sn-mermaid) - A diagram editor. Create Flow, Sequence, Class, State, Gantt, Pie, ER, User Journey, Git, Minmap, or Quadrant diagrams.
+* [Code Playground](https://github.com/nienow/sn-playground) - An HTML, JS, and CSS code playground editor.
 
 ### Components
 * [Pomodoro Timer](https://github.com/tryonlinux/pomodoro-sn/) - Pomodoro timer for Standard Notes in the Editor Bottom Bar
