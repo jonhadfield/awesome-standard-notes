@@ -64,6 +64,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Marp Editor](https://github.com/TheodoreChu/marp-editor) - Create presentation slides with [Marp](https://marp.app) and [Marpit Markdown](https://marpit.marp.app/markdown).
 * [Music Editor](https://github.com/TheodoreChu/music-editor) - Write music with [VexTab](https://github.com/0xfe/vextab) and [VexFlow](https://github.com/0xfe/vexflow).
 * [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) - The awesome editor developed by [Outline](https://www.getoutline.com/). Supports tables, YouTube embeds and text highlights.
+* [Tui Markdown Editor](https://github.com/MortalHappiness/sn-tui.editor) - A markdown editor using [Toast UI Markdown Editor](https://github.com/nhn/tui.editor).
 * [Scratch](https://dylanonelson.github.io/sn-scratch-editor/) - Scratch includes most of the text editing features you would expect for taking notes, like lists, checkboxes, basic text formatting, smart copy/paste, and hotkeys.
 * [Kanban Board](https://github.com/tryonlinux/kanban-board-sn) - A simple Kanban style board editor for Standard Notes.
 * [Kanban Editor](https://github.com/corvec/sn-kanban-editor) - Kanban Editor for Standard Notes. It integrates rcdexta/react-trello, a Kanban board editor, and saves your notes in Markdown so that you can easily read them, export them to Listed, etc.
