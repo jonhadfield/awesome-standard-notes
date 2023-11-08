@@ -54,6 +54,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [One Light Lighter](https://github.com/arturolinares/standardnotes-theme-one-lighter) - Based on One Dark Darker (listed above), but with a light background.
 * [Standard Notes Writer](https://github.com/eenpadvinder/standardnotes-writer) - Distraction free writing with word count
 * [Monospace for Markdown Editors](https://github.com/DanielNetoP/markdown-monospace) - Monospace font for Standard Notes markdown editors (Toggle on top of other themes)
+* [Overcast Theme](https://github.com/nienow/sn-theme-overcast) - A simple grayscale theme. 
 
 ### Editors
 * [Official Extensions](https://github.com/standardnotes/plugins)
@@ -78,7 +79,6 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Quill](https://github.com/nienow/sn-quill) - A rich text editor that uses the Quill library.
 * [Cosmos](https://github.com/nienow/cosmos) - Split a note into multiple areas. Each area can use a different editor. Install new editors more easily.
 * [Mermaid](https://github.com/nienow/sn-mermaid) - A diagram editor. Create Flow, Sequence, Class, State, Gantt, Pie, ER, User Journey, Git, Minmap, or Quadrant diagrams.
-* [Code Playground](https://github.com/nienow/sn-playground) - An HTML, JS, and CSS code playground editor.
 
 ### Components
 * [Pomodoro Timer](https://github.com/tryonlinux/pomodoro-sn/) - Pomodoro timer for Standard Notes in the Editor Bottom Bar
