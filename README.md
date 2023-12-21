@@ -39,8 +39,9 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 ### Themes
 * [Dracula theme](https://github.com/cameronldn/sn-theme-dracula) - A Dracula inspired theme for Standard Notes.
 * [Dracula theme](https://github.com/dracula/sn-theme-dracula) - A dark theme for Standard Notes.
-* [Horizon Dark Theme](https://github.com/shouhu21/sn-theme-horizon-dark) - Based on colors from the Horizon theme for VSCode.
-* [Horizon Light Theme](https://github.com/shouhu21/sn-theme-horizon-light) - Based on colors from the Horizon Theme for VSCode.
+* [Serendipity Dark Theme](https://github.com/luisstd/sn-theme-serendipity-dark) - Dark theme based on the Serendipity theme.
+* [Horizon Dark Theme](https://github.com/luisstd/sn-theme-horizon-dark) - Based on colors from the Horizon theme for VSCode.
+* [Horizon Light Theme](https://github.com/luisstd/sn-theme-horizon-light) - Based on colors from the Horizon Theme for VSCode.
 * [Gruvbox Dark Theme](https://github.com/christianhans/sn-gruvbox-dark-theme) - Based on colors from the gruvbox theme for Vim.
 * [Monochrome Dark Theme](https://listed.to/p/eY9kuTLQzB)
 * [Muted Dark Theme](https://github.com/ntran/sn-theme-muteddark) - Standard Notes dark theme with non-vivid, muted colors
