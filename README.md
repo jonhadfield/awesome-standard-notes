@@ -37,7 +37,6 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 > Many of the extensions have outdated instructions in their README for where to install extensions. Go to Preferences -> General -> Advanced Options to install  extensions.
 
 ### Themes
-* [Dracula theme](https://github.com/cameronldn/sn-theme-dracula) - A Dracula inspired theme for Standard Notes.
 * [Dracula theme](https://github.com/dracula/sn-theme-dracula) - A dark theme for Standard Notes.
 * [Serendipity Dark Theme](https://github.com/luisstd/sn-theme-serendipity-dark) - Dark theme based on the Serendipity theme.
 * [Horizon Dark Theme](https://github.com/luisstd/sn-theme-horizon-dark) - Based on colors from the Horizon theme for VSCode.
@@ -107,7 +106,7 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 * [simplenote2standardnote](https://github.com/edas/simplenote2standardnote) - Port a SimpleNote backup to a StandardNote one, keeping dates and tags
 * [onestandard](https://github.com/oxhacks/onestandard) - Convert notebooks from OneNote into Standard Notes format.
 * [notexfr](https://github.com/rafaelespinoza/notexfr) - notexfr is a tool to convert and adapt data for transfer between note-taking services
-* [Google Keep to Standard Notes nodeJS converter](https://gist.github.com/lzambarda/5e6cebd8356d3a2b5a2de01068745f5b) - Simple NodeJS script to convert a Google Keep Takeout export into a descrypted Standard Notes backup.
+* [Google Keep to Standard Notes nodeJS converter](https://standardnotes.com/help/35/how-can-i-import-my-notes-from-google-keep) - Simple NodeJS script to convert a Google Keep Takeout export into a descrypted Standard Notes backup (Now part of StandardNotes).
 * [evernote2md](https://github.com/wormi4ok/evernote2md) - Evernote2md is a CLI tool to convert Evernote notes exported in *.enex format to a directory with markdown files.
 * [Aegis to TokenVault](https://gist.github.com/kahnwong/e94933bb80888e4b7f75df4d90645cbe) - Export secret keys and account info from Aegis, then use this python script to format it into something the TokenVault Editor can use.
 * [Yarle - The ultimate converter of Evernote notes to Markdown](https://github.com/akosbalasko/yarle) - A fully configurable cross-platform desktop application to convert your Evernote notebooks (enex files) to Markdown format.
@@ -130,4 +129,3 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 ### Themes
 * [Dracula Styled Theme](https://github.com/cameronldn/sn-listed-theme-dracula) - A Dracula Styled theme for your listed blog.
 * [Marcokai Theme](https://github.com/marcoceppi/listed-marcokai) - A dark theme with modified monokai syntax highlighting
-* [Sepia Theme](https://github.com/tda233066/sn_listed_sepia_theme) - Based on Standard Notes' Autobiography theme.
