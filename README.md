@@ -1,5 +1,5 @@
 # Awesome Standard Notes
-A curated list of tools and information relating to [Standard Notes](https://standardnotes.com/).  
+A curated list of tools and information relating to [Standard Notes](https://standardnotes.com/).
 
 Please take a look at the [contribution guidelines](CONTRIBUTING.md) before suggesting any changes. You can also have your extension hosted by the [official plugins directory](https://github.com/standardnotes/plugins).
 
@@ -55,7 +55,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [One Light Lighter](https://github.com/arturolinares/standardnotes-theme-one-lighter) - Based on One Dark Darker (listed above), but with a light background.
 * [Standard Notes Writer](https://github.com/eenpadvinder/standardnotes-writer) - Distraction free writing with word count
 * [Monospace for Markdown Editors](https://github.com/DanielNetoP/markdown-monospace) - Monospace font for Standard Notes markdown editors (Toggle on top of other themes)
-* [Overcast Theme](https://github.com/nienow/sn-theme-overcast) - A simple grayscale theme. 
+* [Overcast Theme](https://github.com/nienow/sn-theme-overcast) - A simple grayscale theme.
 
 ### Editors
 * [Official Extensions](https://github.com/standardnotes/plugins)
@@ -102,8 +102,8 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 * [Extensions Repository Builder](https://github.com/iganeshk/standardnotes-extensions) - Host Standard Notes extensions on your own server.
 
 ### Importers, Exporters, and Converters
-* [Day One => Standard Notes Importer](https://github.com/ArneTR/standardnotes_day_one_importer) - Day One JSON Export Importer for Standard Notes  
-* [Google Keep™ to StandardNotes Converter](https://github.com/vantezzen/Google-Keep-to-Standardnotes-Converter) - Convert Google Keep Takeout archive into Standardnotes archive  
+* [Day One => Standard Notes Importer](https://github.com/ArneTR/standardnotes_day_one_importer) - Day One JSON Export Importer for Standard Notes
+* [Google Keep™ to StandardNotes Converter](https://github.com/vantezzen/Google-Keep-to-Standardnotes-Converter) - Convert Google Keep Takeout archive into Standardnotes archive
 * [simplenote2standardnote](https://github.com/edas/simplenote2standardnote) - Port a SimpleNote backup to a StandardNote one, keeping dates and tags
 * [onestandard](https://github.com/oxhacks/onestandard) - Convert notebooks from OneNote into Standard Notes format.
 * [notexfr](https://github.com/rafaelespinoza/notexfr) - notexfr is a tool to convert and adapt data for transfer between note-taking services
@@ -126,8 +126,8 @@ A browser add-on (Firefox and Chrome) that allows you to clip web pages to your 
 ## Clients
 * [Iridium](https://github.com/standardnotes/forum/issues/1135) - A local-first client written in Rust and GTK, with support for any server and offline editing <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
 * [Flatpak](https://flathub.org/apps/details/org.standardnotes.standardnotes) - An unofficial Flatpak build.
-## Listed 
+## Listed
 ### Themes
-* [Dracula Styled Theme](https://github.com/TheVetDev/listed_dracula_theme) - A Dracula Styled theme for your listed blog. 
+* [Dracula Styled Theme](https://github.com/cameronldn/sn-listed-theme-dracula) - A Dracula Styled theme for your listed blog.
 * [Marcokai Theme](https://github.com/marcoceppi/listed-marcokai) - A dark theme with modified monokai syntax highlighting
-* [Sepia Theme](https://github.com/tda233066/sn_listed_sepia_theme) - Based on Standard Notes' Autobiography theme. 
+* [Sepia Theme](https://github.com/tda233066/sn_listed_sepia_theme) - Based on Standard Notes' Autobiography theme.
