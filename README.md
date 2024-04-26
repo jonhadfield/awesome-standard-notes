@@ -42,13 +42,13 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Horizon Dark Theme](https://github.com/luisstd/sn-theme-horizon-dark) - Based on colors from the Horizon theme for VSCode.
 * [Horizon Light Theme](https://github.com/luisstd/sn-theme-horizon-light) - Based on colors from the Horizon Theme for VSCode.
 * [Gruvbox Dark Theme](https://github.com/christianhans/sn-gruvbox-dark-theme) - Based on colors from the gruvbox theme for Vim.
-* [Monochrome Dark Theme](https://listed.to/p/eY9kuTLQzB)
+* [Monochrome Dark Theme](https://github.com/Parkertg/sn-theme-monochrome-dark)
 * [Muted Dark Theme](https://github.com/ntran/sn-theme-muteddark) - Standard Notes dark theme with non-vivid, muted colors
 * [Pure Black Theme](https://github.com/christianhans/sn-pure-black-theme) - Theme for Standard Notes. Optimized for OLED devices such as iPhone X.
 * [Slate Theme](https://github.com/yithian/slate-theme/) - A Standard Notes theme with shady grey and mossy green highlights.
 * [vscode-theme](https://github.com/hyphone/sn-theme-vscode) - A theme for Standard Notes inspired by the VS Code Dark theme that is easy on the eyes.
-* [Subtle Dark Theme](https://listed.to/p/bntrwCrfHs)
-* [Subtle Light Theme](https://listed.to/p/4mweyGrLjo)
+* [Subtle Dark Theme](https://github.com/Parkertg/sn-theme-subtle-dark)
+* [Subtle Light Theme](https://github.com/Parkertg/sn-theme-subtle-light)
 * [One Dark Darker](https://github.com/eenpadvinder/standardnotes-theme-one-darker) - Based on the One Dark Darker theme for VS Code, with colored headings and some UI tweaks.
 * [Tangerine Theme](https://github.com/shompoe/sn-orange) - Newly updated for SN 3.9.15 onward. New installation link. Please re-install
 * [One Light Lighter](https://github.com/arturolinares/standardnotes-theme-one-lighter) - Based on One Dark Darker (listed above), but with a light background.
