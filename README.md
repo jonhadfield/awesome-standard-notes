@@ -55,6 +55,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Standard Notes Writer](https://github.com/eenpadvinder/standardnotes-writer) - Distraction free writing with word count
 * [Monospace for Markdown Editors](https://github.com/DanielNetoP/markdown-monospace) - Monospace font for Standard Notes markdown editors (Toggle on top of other themes)
 * [Overcast Theme](https://github.com/nienow/sn-theme-overcast) - A simple grayscale theme.
+* [Dark Sense Theme](https://github.com/rsharuru/sn-theme-dark-sense) - Perfect for writing in the dark.
 
 ### Editors
 * [Official Extensions](https://github.com/standardnotes/plugins)
