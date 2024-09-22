@@ -56,6 +56,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Monospace for Markdown Editors](https://github.com/DanielNetoP/markdown-monospace) - Monospace font for Standard Notes markdown editors (Toggle on top of other themes)
 * [Overcast Theme](https://github.com/nienow/sn-theme-overcast) - A simple grayscale theme.
 * [Dark Sense Theme](https://github.com/rsharuru/sn-theme-dark-sense) - Perfect for writing in the dark.
+* [Moss Theme](https://github.com/TheMany172/awesome-standard-notes.git) - Mossy green with orange accents - dark theme.
 
 ### Editors
 * [Official Extensions](https://github.com/standardnotes/plugins)
