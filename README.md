@@ -76,11 +76,11 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Coin Inventory](https://github.com/tryonlinux/Coin-Inventory-sn) - An extension editor for Standard Notes to catalog coin inventory in a solid and secure way. Numismatists rejoice!
 * [Precious Metals](https://github.com/tryonlinux/Precious-Metals-Inventory-sn) - An extension editor for Standard Notes to keep track of what precious metals you have and their values.
 * [Savings Goal Tracker](https://github.com/tryonlinux/savings-goals-editor-sn) - This is an editor for Standard Notes that allows you to track your savings goals within the app. You can add your goals and prioritize them by dragging and dropping them in the order you wish.
-* [Whiteboard](https://github.com/antonheitz/sn-whiteboard) - This editor utilizes TLDraw to enable you to freely draw and write, add sticky notes and shapes. Works on Dektop and Mobile.
+* [Whiteboard](https://github.com/antonheitz/sn-whiteboard) - This editor utilizes TLDraw to enable you to freely draw and write, add sticky notes and shapes. Works on Desktop and Mobile.
 * [Excalidraw](https://github.com/nienow/sn-excalidraw) - A drawing/sketching editor that uses the Excalidraw library.
 * [Quill](https://github.com/nienow/sn-quill) - A rich text editor that uses the Quill library.
 * [Cosmos](https://github.com/nienow/cosmos) - Split a note into multiple areas. Each area can use a different editor. Install new editors more easily.
-* [Mermaid](https://github.com/nienow/sn-mermaid) - A diagram editor. Create Flow, Sequence, Class, State, Gantt, Pie, ER, User Journey, Git, Minmap, or Quadrant diagrams.
+* [Mermaid](https://github.com/nienow/sn-mermaid) - A diagram editor. Create Flow, Sequence, Class, State, Gantt, Pie, ER, User Journey, Git, Mindmap, or Quadrant diagrams.
 
 ### Components
 * [Pomodoro Timer](https://github.com/tryonlinux/pomodoro-sn/) - Pomodoro timer for Standard Notes in the Editor Bottom Bar
@@ -107,13 +107,13 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [simplenote2standardnote](https://github.com/edas/simplenote2standardnote) - Port a SimpleNote backup to a StandardNote one, keeping dates and tags
 * [onestandard](https://github.com/oxhacks/onestandard) - Convert notebooks from OneNote into Standard Notes format.
 * [notexfr](https://github.com/rafaelespinoza/notexfr) - notexfr is a tool to convert and adapt data for transfer between note-taking services
-* [Google Keep to Standard Notes nodeJS converter](https://standardnotes.com/help/35/how-can-i-import-my-notes-from-google-keep) - Simple NodeJS script to convert a Google Keep Takeout export into a descrypted Standard Notes backup (Now part of StandardNotes).
+* [Google Keep to Standard Notes nodeJS converter](https://standardnotes.com/help/35/how-can-i-import-my-notes-from-google-keep) - Simple NodeJS script to convert a Google Keep Takeout export into a decrypted Standard Notes backup (Now part of StandardNotes).
 * [evernote2md](https://github.com/wormi4ok/evernote2md) - Evernote2md is a CLI tool to convert Evernote notes exported in *.enex format to a directory with markdown files.
 * [Aegis to TokenVault](https://gist.github.com/kahnwong/e94933bb80888e4b7f75df4d90645cbe) - Export secret keys and account info from Aegis, then use this python script to format it into something the TokenVault Editor can use.
 * [Yarle - The ultimate converter of Evernote notes to Markdown](https://github.com/akosbalasko/yarle) - A fully configurable cross-platform desktop application to convert your Evernote notebooks (enex files) to Markdown format.
 * [Standard Notes Folder Export CLI](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno) - Simple CLI script to convert a decrypted Standard Notes Backup/Export into a structure of `<tag>/<note-title>.<file-extension>`.
 * [Standard Notes export to folder](https://github.com/danielnetop/sn-export-to-folder) - CLI tool to extract info from the Standard Notes decrypted export and transform it into folder based tags and notes. After the tool runs the tags will be folders and each note will be inside the respective folder.
-* [BB10 Remember → Standard Notes plaintext(/super note) import format Converter](https://github.com/jayb-g/bbrem2sn) - A simple python program to convert BlackBerry10 Remember Notes backup(backed-up using Runisoft Ultimate Backup on BB10) to Standard Notes importable format with preseved formatting, attachments and timestamps.
+* [BB10 Remember → Standard Notes plaintext(/super note) import format Converter](https://github.com/jayb-g/bbrem2sn) - A simple python program to convert BlackBerry10 Remember Notes backup(backed-up using Runisoft Ultimate Backup on BB10) to Standard Notes importable format with preserved formatting, attachments and timestamps.
 
 ## Libraries
 * [gosn-v2](https://github.com/jonhadfield/gosn-v2) - A library written in Go
