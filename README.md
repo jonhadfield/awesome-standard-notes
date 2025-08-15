@@ -59,6 +59,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Moss Theme](https://github.com/TheMany172/SN-Moss-Theme) - Mossy green with orange accents - dark theme.
 
 ### Editors
+> A comparison of selected text editors can be found [here](https://github.com/dataprolet/standard-notes-editor-comparison).
 * [Official Extensions](https://github.com/standardnotes/plugins)
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor)
 * [Standard Notes Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor)
