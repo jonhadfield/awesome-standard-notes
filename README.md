@@ -64,6 +64,7 @@ A curated list of tools and information relating to [Standard Notes](https://sta
 - [Callisto](https://github.com/lissy93/callisto-theme-standard-notes) - Dusty navy and teal palette.
 - [Cobalt](https://github.com/PASSK3YS/cobalt) - Blue-inspired theme.
 - [Catppuccin](https://github.com/JoeC-Dev/SN-catppuccin-mocha) - Catppuccin flavors: [Mocha](https://github.com/JoeC-Dev/SN-catppuccin-mocha), [Latte](https://github.com/JoeC-Dev/SN-catppuccin-latte), [Frappe](https://github.com/JoeC-Dev/SN-catppuccin-frappe), [Macchiato](https://github.com/JoeC-Dev/SN-catppuccin-macchiato).
+- [Cypherpunk](https://github.com/nickstruglia/standard-notes-cypherpunk) - Green-phosphor dark theme with monospace type.
 
 ### Editors
 
@@ -99,6 +100,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 - [Coin Inventory](https://github.com/tryonlinux/Coin-Inventory-sn) - Catalog coin collections.
 - [Precious Metals](https://github.com/tryonlinux/Precious-Metals-Inventory-sn) - Track precious metal holdings and values.
 - [Savings Goal Tracker](https://github.com/tryonlinux/savings-goals-editor-sn) - Prioritize and track savings goals.
+- [Keyfold](https://github.com/nickstruglia/standard-notes-keyfold) - Seed phrases, wallet, SSH and PGP keys, API tokens and recovery codes, with checksum checks, an optional vault password and encrypted backup files.
 
 ### Components
 
